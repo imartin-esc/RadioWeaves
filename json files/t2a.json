@@ -1,0 +1,134 @@
+[
+  {
+    "id": "T2A01",
+    "correct": 1,
+    "question": "What is a common repeater frequency offset in the 2 meter band?",
+    "answers": [
+      "Plus or minus 5 MHz",
+      "Plus or minus 600 kHz",
+      "Plus or minus 500 kHz",
+      "Plus or minus 1 MHz"
+    ]
+  },
+  {
+    "id": "T2A02",
+    "correct": 0,
+    "question": "What is the national calling frequency for FM simplex operations in the 2 meter band?",
+    "answers": [
+      "146.520 MHz",
+      "145.000 MHz",
+      "432.100 MHz",
+      "446.000 MHz"
+    ]
+  },
+  {
+    "id": "T2A03",
+    "correct": 0,
+    "question": "What is a common repeater frequency offset in the 70 cm band?",
+    "answers": [
+      "Plus or minus 5 MHz",
+      "Plus or minus 600 kHz",
+      "Plus or minus 500 kHz",
+      "Plus or minus 1 MHz"
+    ]
+  },
+  {
+    "id": "T2A04",
+    "correct": 1,
+    "question": "What is an appropriate way to call another station on a repeater if you know the other station's call sign?",
+    "answers": [
+      "Say \"break, break,\" then say the station's call sign",
+      "Say the station's call sign, then identify with your call sign",
+      "Say \"CQ\" three times, then the other station's call sign",
+      "Wait for the station to call CQ, then answer"
+    ]
+  },
+  {
+    "id": "T2A05",
+    "correct": 2,
+    "question": "How should you respond to a station calling CQ?",
+    "answers": [
+      "Transmit \"CQ\" followed by the other station’s call sign",
+      "Transmit your call sign followed by the other station’s call sign",
+      "Transmit the other station’s call sign followed by your call sign",
+      "Transmit a signal report followed by your call sign"
+    ]
+  },
+  {
+    "id": "T2A06",
+    "correct": 0,
+    "question": "Which of the following is required when making on-the-air test transmissions?",
+    "answers": [
+      "Identify the transmitting station",
+      "Conduct tests only between 10 p.m. and 6 a.m. local time",
+      "Notify the FCC of the transmissions",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T2A07",
+    "correct": 0,
+    "question": "What is meant by \"repeater offset”?",
+    "answers": [
+      "The difference between a repeater’s transmit and receive frequencies",
+      "The repeater has a time delay to prevent interference",
+      "The repeater station identification is done on a separate frequency",
+      "The number of simultaneous transmit frequencies used by a repeater"
+    ]
+  },
+  {
+    "id": "T2A08",
+    "correct": 3,
+    "question": "What is the meaning of the procedural signal “CQ”?",
+    "answers": [
+      "Call on the quarter hour",
+      "Test transmission, no reply expected",
+      "Only the called station should transmit",
+      "Calling any station"
+    ]
+  },
+  {
+    "id": "T2A09",
+    "correct": 1,
+    "question": "Which of the following indicates that a station is listening on a repeater and looking for a contact?",
+    "answers": [
+      "“CQ CQ” followed by the repeater’s call sign",
+      "The station’s call sign followed by the word “monitoring”",
+      "The repeater call sign followed by the station’s call sign",
+      "“QSY” followed by your call sign"
+    ]
+  },
+  {
+    "id": "T2A10",
+    "correct": 0,
+    "question": "What is a band plan, beyond the privileges established by the FCC?",
+    "answers": [
+      "A voluntary guideline for using different modes or activities within an amateur band",
+      "A list of operating schedules",
+      "A list of available net frequencies",
+      "A plan devised by a club to indicate frequency band usage"
+    ]
+  },
+  {
+    "id": "T2A11",
+    "correct": 2,
+    "question": "What term describes an amateur station that is transmitting and receiving on the same frequency?",
+    "answers": [
+      "Full duplex",
+      "Diplex",
+      "Simplex",
+      "Multiplex"
+    ]
+  },
+  {
+    "id": "T2A12",
+    "correct": 3,
+    "question": "What should you do before calling CQ?",
+    "answers": [
+      "Listen first to be sure that no one else is using the frequency",
+      "Ask if the frequency is in use",
+      "Make sure you are authorized to use that frequency",
+      "All these choices are correct"
+    ]
+  }
+]

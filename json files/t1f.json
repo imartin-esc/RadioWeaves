@@ -1,0 +1,123 @@
+[
+  {
+    "id": "T1F01",
+    "correct": 1,
+    "question": "When must the station and its records be available for FCC inspection?",
+    "answers": [
+      "At any time ten days after notification by the FCC of such an inspection",
+      "At any time upon request by an FCC representative",
+      "At any time after written notification by the FCC of such inspection",
+      "Only when presented with a valid warrant by an FCC official or government agent"
+    ]
+  },
+  {
+    "id": "T1F02",
+    "correct": 2,
+    "question": "How often must you identify with your FCC-assigned call sign when using tactical call signs such as “Race Headquarters”?",
+    "answers": [
+      "Never, the tactical call is sufficient",
+      "Once during every hour",
+      "At the end of each communication and every ten minutes during a communication",
+      "At the end of every transmission"
+    ]
+  },
+  {
+    "id": "T1F03",
+    "correct": 3,
+    "question": "When are you required to transmit your assigned call sign?",
+    "answers": [
+      "At the beginning of each contact, and every 10 minutes thereafter",
+      "At least once during each transmission",
+      "At least every 15 minutes during and at the end of a communication",
+      "At least every 10 minutes during and at the end of a communication"
+    ]
+  },
+  {
+    "id": "T1F04",
+    "correct": 2,
+    "question": "What language may you use for identification when operating in a phone sub-band?",
+    "answers": [
+      "Any language recognized by the United Nations",
+      "Any language recognized by the ITU",
+      "English",
+      "English, French, or Spanish"
+    ]
+  },
+  {
+    "id": "T1F05",
+    "correct": 1,
+    "question": "What method of call sign identification is required for a station transmitting phone signals?",
+    "answers": [
+      "Send the call sign followed by the indicator RPT",
+      "Send the call sign using a CW or phone emission",
+      "Send the call sign followed by the indicator R",
+      "Send the call sign using only a phone emission"
+    ]
+  },
+  {
+    "id": "T1F06",
+    "correct": 3,
+    "question": "Which of the following self-assigned indicators are acceptable when using a phone transmission?",
+    "answers": [
+      "KL7CC stroke W3",
+      "KL7CC slant W3",
+      "KL7CC slash W3",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T1F07",
+    "correct": 1,
+    "question": "Which of the following restrictions apply when a non-licensed person is allowed to speak to a foreign station using a station under the control of a licensed amateur operator?",
+    "answers": [
+      "The person must be a U.S. citizen",
+      "The foreign station must be in a country with which the U.S. has a third party agreement",
+      "The licensed control operator must do the station identification",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T1F08",
+    "correct": 0,
+    "question": "What is the definition of third party communications?",
+    "answers": [
+      "A message from a control operator to another amateur station control operator on behalf of another person",
+      "Amateur radio communications where three stations are in communications with one another",
+      "Operation when the transmitting equipment is licensed to a person other than the control operator",
+      "Temporary authorization for an unlicensed person to transmit on the amateur bands for technical experiments"
+    ]
+  },
+  {
+    "id": "T1F09",
+    "correct": 2,
+    "question": "What type of amateur station simultaneously retransmits the signal of another amateur station on a different channel or channels?",
+    "answers": [
+      "Beacon station",
+      "Earth station",
+      "Repeater station",
+      "Message forwarding station"
+    ]
+  },
+  {
+    "id": "T1F10",
+    "correct": 0,
+    "question": "Who is accountable if a repeater inadvertently retransmits communications that violate the FCC rules?",
+    "answers": [
+      "The control operator of the originating station",
+      "The control operator of the repeater",
+      "The owner of the repeater",
+      "Both the originating station and the repeater owner"
+    ]
+  },
+  {
+    "id": "T1F11",
+    "correct": 1,
+    "question": "Which of the following is a requirement for the issuance of a club station license grant?",
+    "answers": [
+      "The trustee must have an Amateur Extra Class operator license grant",
+      "The club must have at least four members",
+      "The club must be registered with the American Radio Relay League",
+      "All these choices are correct"
+    ]
+  }
+]

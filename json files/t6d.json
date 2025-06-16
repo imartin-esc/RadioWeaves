@@ -1,0 +1,123 @@
+[
+  {
+    "id": "T6D01",
+    "correct": 1,
+    "question": "Which of the following devices or circuits changes an alternating current into a varying direct current signal?",
+    "answers": [
+      "Transformer",
+      "Rectifier",
+      "Amplifier",
+      "Reflector"
+    ]
+  },
+  {
+    "id": "T6D02",
+    "correct": 0,
+    "question": "What is a relay?",
+    "answers": [
+      "An electrically-controlled switch",
+      "A current controlled amplifier",
+      "An inverting amplifier",
+      "A pass transistor"
+    ]
+  },
+  {
+    "id": "T6D03",
+    "correct": 2,
+    "question": "Which of the following is a reason to use shielded wire?",
+    "answers": [
+      "To decrease the resistance of DC power connections",
+      "To increase the current carrying capability of the wire",
+      "To prevent coupling of unwanted signals to or from the wire",
+      "To couple the wire to other signals"
+    ]
+  },
+  {
+    "id": "T6D04",
+    "correct": 2,
+    "question": "Which of the following displays an electrical quantity as a numeric value?",
+    "answers": [
+      "Potentiometer",
+      "Transistor",
+      "Meter",
+      "Relay"
+    ]
+  },
+  {
+    "id": "T6D05",
+    "correct": 0,
+    "question": "What type of circuit controls the amount of voltage from a power supply?",
+    "answers": [
+      "Regulator",
+      "Oscillator",
+      "Filter",
+      "Phase inverter"
+    ]
+  },
+  {
+    "id": "T6D06",
+    "correct": 1,
+    "question": "What component changes 120 V AC power to a lower AC voltage for other uses?",
+    "answers": [
+      "Variable capacitor",
+      "Transformer",
+      "Transistor",
+      "Diode"
+    ]
+  },
+  {
+    "id": "T6D07",
+    "correct": 0,
+    "question": "Which of the following is commonly used as a visual indicator?",
+    "answers": [
+      "LED",
+      "FET",
+      "Zener diode",
+      "Bipolar transistor"
+    ]
+  },
+  {
+    "id": "T6D08",
+    "correct": 3,
+    "question": "Which of the following is combined with an inductor to make a resonant circuit?",
+    "answers": [
+      "Resistor",
+      "Zener diode",
+      "Potentiometer",
+      "Capacitor"
+    ]
+  },
+  {
+    "id": "T6D09",
+    "correct": 2,
+    "question": "What is the name of a device that combines several semiconductors and other components into one package?",
+    "answers": [
+      "Transducer",
+      "Multi-pole relay",
+      "Integrated circuit",
+      "Transformer"
+    ]
+  },
+  {
+    "id": "T6D10",
+    "correct": 2,
+    "question": "What is the function of component 2 in figure T-1?",
+    "answers": [
+      "Give off light when current flows through it",
+      "Supply electrical energy",
+      "Control the flow of current",
+      "Convert electrical energy into radio waves"
+    ]
+  },
+  {
+    "id": "T6D11",
+    "correct": 0,
+    "question": "Which of the following is a resonant or tuned circuit?",
+    "answers": [
+      "An inductor and a capacitor in series or parallel",
+      "A linear voltage regulator",
+      "A resistor circuit used for reducing standing wave ratio",
+      "A circuit designed to provide high-fidelity audio"
+    ]
+  }
+]

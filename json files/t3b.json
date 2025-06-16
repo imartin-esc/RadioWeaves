@@ -1,0 +1,123 @@
+[
+  {
+    "id": "T3B01",
+    "correct": 3,
+    "question": "What is the relationship between the electric and magnetic fields of an electromagnetic wave?",
+    "answers": [
+      "They travel at different speeds",
+      "They are in parallel",
+      "They revolve in opposite directions",
+      "They are at right angles"
+    ]
+  },
+  {
+    "id": "T3B02",
+    "correct": 0,
+    "question": "What property of a radio wave defines its polarization?",
+    "answers": [
+      "The orientation of the electric field",
+      "The orientation of the magnetic field",
+      "The ratio of the energy in the magnetic field to the energy in the electric field",
+      "The ratio of the velocity to the wavelength"
+    ]
+  },
+  {
+    "id": "T3B03",
+    "correct": 2,
+    "question": "What are the two components of a radio wave?",
+    "answers": [
+      "Impedance and reactance",
+      "Voltage and current",
+      "Electric and magnetic fields",
+      "Ionizing and non-ionizing radiation"
+    ]
+  },
+  {
+    "id": "T3B04",
+    "correct": 0,
+    "question": "What is the velocity of a radio wave traveling through free space?",
+    "answers": [
+      "Speed of light",
+      "Speed of sound",
+      "Speed inversely proportional to its wavelength",
+      "Speed that increases as the frequency increases"
+    ]
+  },
+  {
+    "id": "T3B05",
+    "correct": 1,
+    "question": "What is the relationship between wavelength and frequency?",
+    "answers": [
+      "Wavelength gets longer as frequency increases",
+      "Wavelength gets shorter as frequency increases",
+      "Wavelength and frequency are unrelated",
+      "Wavelength and frequency increase as path length increases"
+    ]
+  },
+  {
+    "id": "T3B06",
+    "correct": 3,
+    "question": "What is the formula for converting frequency to approximate wavelength in meters?",
+    "answers": [
+      "Wavelength in meters equals frequency in hertz multiplied by 300",
+      "Wavelength in meters equals frequency in hertz divided by 300",
+      "Wavelength in meters equals frequency in megahertz divided by 300",
+      "Wavelength in meters equals 300 divided by frequency in megahertz"
+    ]
+  },
+  {
+    "id": "T3B07",
+    "correct": 0,
+    "question": "In addition to frequency, which of the following is used to identify amateur radio bands?",
+    "answers": [
+      "The approximate wavelength in meters",
+      "Traditional letter/number designators",
+      "Channel numbers",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T3B08",
+    "correct": 1,
+    "question": "What frequency range is referred to as VHF?",
+    "answers": [
+      "30 kHz to 300 kHz",
+      "30 MHz to 300 MHz",
+      "300 kHz to 3000 kHz",
+      "300 MHz to 3000 MHz"
+    ]
+  },
+  {
+    "id": "T3B09",
+    "correct": 3,
+    "question": "What frequency range is referred to as UHF?",
+    "answers": [
+      "30 to 300 kHz",
+      "30 to 300 MHz",
+      "300 to 3000 kHz",
+      "300 to 3000 MHz"
+    ]
+  },
+  {
+    "id": "T3B10",
+    "correct": 2,
+    "question": "What frequency range is referred to as HF?",
+    "answers": [
+      "300 to 3000 MHz",
+      "30 to 300 MHz",
+      "3 to 30 MHz",
+      "300 to 3000 kHz"
+    ]
+  },
+  {
+    "id": "T3B11",
+    "correct": 1,
+    "question": "What is the approximate velocity of a radio wave in free space?",
+    "answers": [
+      "150,000 meters per second",
+      "300,000,000 meters per second",
+      "300,000,000 miles per hour",
+      "150,000 miles per hour"
+    ]
+  }
+]

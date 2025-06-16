@@ -1,0 +1,134 @@
+[
+  {
+    "id": "T9A01",
+    "correct": 2,
+    "question": "What is a beam antenna?",
+    "answers": [
+      "An antenna built from aluminum I-beams",
+      "An omnidirectional antenna invented by Clarence Beam",
+      "An antenna that concentrates signals in one direction",
+      "An antenna that reverses the phase of received signals"
+    ]
+  },
+  {
+    "id": "T9A02",
+    "correct": 0,
+    "question": "Which of the following describes a type of antenna loading?",
+    "answers": [
+      "Electrically lengthening by inserting inductors in radiating elements",
+      "Inserting a resistor in the radiating portion of the antenna to make it resonant",
+      "Installing a spring in the base of a mobile vertical antenna to make it more flexible",
+      "Strengthening the radiating elements of a beam antenna to better resist wind damage"
+    ]
+  },
+  {
+    "id": "T9A03",
+    "correct": 1,
+    "question": "Which of the following describes a simple dipole oriented parallel to Earth's surface?",
+    "answers": [
+      "A ground-wave antenna",
+      "A horizontally polarized antenna",
+      "A travelling-wave antenna",
+      "A vertically polarized antenna"
+    ]
+  },
+  {
+    "id": "T9A04",
+    "correct": 0,
+    "question": "What is a disadvantage of the short, flexible antenna supplied with most handheld radio transceivers, compared to a full-sized quarter-wave antenna?",
+    "answers": [
+      "It has low efficiency",
+      "It transmits only circularly polarized signals",
+      "It is mechanically fragile",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T9A05",
+    "correct": 2,
+    "question": "Which of the following increases the resonant frequency of a dipole antenna?",
+    "answers": [
+      "Lengthening it",
+      "Inserting coils in series with radiating wires",
+      "Shortening it",
+      "Adding capacitive loading to the ends of the radiating wires"
+    ]
+  },
+  {
+    "id": "T9A06",
+    "correct": 3,
+    "question": "Which of the following types of antenna offers the greatest gain?",
+    "answers": [
+      "5/8 wave vertical",
+      "Isotropic",
+      "J pole",
+      "Yagi"
+    ]
+  },
+  {
+    "id": "T9A07",
+    "correct": 0,
+    "question": "What is a disadvantage of using a handheld VHF transceiver with a flexible antenna inside a vehicle?",
+    "answers": [
+      "Signal strength is reduced due to the shielding effect of the vehicle",
+      "The bandwidth of the antenna will decrease, increasing SWR",
+      "The SWR might decrease, decreasing the signal strength",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T9A08",
+    "correct": 2,
+    "question": "What is the approximate length, in inches, of a quarter-wavelength vertical antenna for 146 MHz?",
+    "answers": [
+      "112",
+      "50",
+      "19",
+      "12"
+    ]
+  },
+  {
+    "id": "T9A09",
+    "correct": 2,
+    "question": "What is the approximate length, in inches, of a half-wavelength 6 meter dipole antenna?",
+    "answers": [
+      "6",
+      "50",
+      "112",
+      "236"
+    ]
+  },
+  {
+    "id": "T9A10",
+    "correct": 3,
+    "question": "In which direction does a half-wave dipole antenna radiate the strongest signal?",
+    "answers": [
+      "Equally in all directions",
+      "Off the ends of the antenna",
+      "In the direction of the feed line",
+      "Broadside to the antenna"
+    ]
+  },
+  {
+    "id": "T9A11",
+    "correct": 2,
+    "question": "What is antenna gain?",
+    "answers": [
+      "The additional power that is added to the transmitter power",
+      "The additional power that is required in the antenna when transmitting on a higher frequency",
+      "The increase in signal strength in a specified direction compared to a reference antenna",
+      "The increase in impedance on receive or transmit compared to a reference antenna"
+    ]
+  },
+  {
+    "id": "T9A12",
+    "correct": 0,
+    "question": "What is an advantage of a 5/8 wavelength whip antenna for VHF or UHF mobile service?",
+    "answers": [
+      "It has more gain than a 1/4-wavelength antenna",
+      "It radiates at a very high angle",
+      "It eliminates distortion caused by reflected signals",
+      "It has 10 times the power gain of a 1/4 wavelength whip"
+    ]
+  }
+]

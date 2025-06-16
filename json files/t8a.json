@@ -1,0 +1,134 @@
+[
+  {
+    "id": "T8A01",
+    "correct": 2,
+    "question": "Which of the following is a form of amplitude modulation?",
+    "answers": [
+      "Spread spectrum",
+      "Packet radio",
+      "Single sideband",
+      "Phase shift keying (PSK)"
+    ]
+  },
+  {
+    "id": "T8A02",
+    "correct": 0,
+    "question": "What type of modulation is commonly used for VHF packet radio transmissions?",
+    "answers": [
+      "FM or PM",
+      "SSB",
+      "AM",
+      "PSK"
+    ]
+  },
+  {
+    "id": "T8A03",
+    "correct": 2,
+    "question": "Which type of voice mode is often used for long-distance (weak signal) contacts on the VHF and UHF bands?",
+    "answers": [
+      "FM",
+      "DRM",
+      "SSB",
+      "PM"
+    ]
+  },
+  {
+    "id": "T8A04",
+    "correct": 3,
+    "question": "Which type of modulation is commonly used for VHF and UHF voice repeaters?",
+    "answers": [
+      "AM",
+      "SSB",
+      "PSK",
+      "FM or PM"
+    ]
+  },
+  {
+    "id": "T8A05",
+    "correct": 2,
+    "question": "Which of the following types of signal has the narrowest bandwidth?",
+    "answers": [
+      "FM voice",
+      "SSB voice",
+      "CW",
+      "Slow-scan TV"
+    ]
+  },
+  {
+    "id": "T8A06",
+    "correct": 0,
+    "question": "Which sideband is normally used for 10 meter HF, VHF, and UHF single-sideband communications?",
+    "answers": [
+      "Upper sideband",
+      "Lower sideband",
+      "Suppressed sideband",
+      "Inverted sideband"
+    ]
+  },
+  {
+    "id": "T8A07",
+    "correct": 2,
+    "question": "What is a characteristic of single sideband (SSB) compared to FM?",
+    "answers": [
+      "SSB signals are easier to tune in correctly",
+      "SSB signals are less susceptible to interference",
+      "SSB signals have narrower bandwidth",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T8A08",
+    "correct": 1,
+    "question": "What is the approximate bandwidth of a typical single sideband (SSB) voice signal?",
+    "answers": [
+      "1 kHz",
+      "3 kHz",
+      "6 kHz",
+      "15 kHz"
+    ]
+  },
+  {
+    "id": "T8A09",
+    "correct": 2,
+    "question": "What is the approximate bandwidth of a VHF repeater FM voice signal?",
+    "answers": [
+      "Less than 500 Hz",
+      "About 150 kHz",
+      "Between 10 and 15 kHz",
+      "Between 50 and 125 kHz"
+    ]
+  },
+  {
+    "id": "T8A10",
+    "correct": 1,
+    "question": "What is the approximate bandwidth of AM fast-scan TV transmissions?",
+    "answers": [
+      "More than 10 MHz",
+      "About 6 MHz",
+      "About 3 MHz",
+      "About 1 MHz"
+    ]
+  },
+  {
+    "id": "T8A11",
+    "correct": 1,
+    "question": "What is the approximate bandwidth required to transmit a CW signal?",
+    "answers": [
+      "2.4 kHz",
+      "150 Hz",
+      "1000 Hz",
+      "15 kHz"
+    ]
+  },
+  {
+    "id": "T8A12",
+    "correct": 1,
+    "question": "Which of the following is a disadvantage of FM compared with single sideband?",
+    "answers": [
+      "Voice quality is poorer",
+      "Only one signal can be received at a time",
+      "FM signals are harder to tune",
+      "All these choices are correct"
+    ]
+  }
+]

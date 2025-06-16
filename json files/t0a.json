@@ -1,0 +1,134 @@
+[
+  {
+    "id": "T0A01",
+    "correct": 1,
+    "question": "Which of the following is a safety hazard of a 12-volt storage battery?",
+    "answers": [
+      "Touching both terminals with the hands can cause electrical shock",
+      "Shorting the terminals can cause burns, fire, or an explosion",
+      "RF emissions from a nearby transmitter can cause the electrolyte to emit poison gas",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T0A02",
+    "correct": 3,
+    "question": "What health hazard is presented by electrical current flowing through the body?",
+    "answers": [
+      "It may cause injury by heating tissue",
+      "It may disrupt the electrical functions of cells",
+      "It may cause involuntary muscle contractions",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T0A03",
+    "correct": 1,
+    "question": "In the United States, what circuit does black wire insulation indicate in a three-wire 120 V cable?",
+    "answers": [
+      "Neutral",
+      "Hot",
+      "Equipment ground",
+      "Black insulation is never used"
+    ]
+  },
+  {
+    "id": "T0A04",
+    "correct": 1,
+    "question": "What is the purpose of a fuse in an electrical circuit?",
+    "answers": [
+      "To prevent power supply ripple from damaging a component",
+      "To remove power in case of overload",
+      "To limit current to prevent shocks",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T0A05",
+    "correct": 2,
+    "question": "Why should a 5-ampere fuse never be replaced with a 20-ampere fuse?",
+    "answers": [
+      "The larger fuse would be likely to blow because it is rated for higher current",
+      "The power supply ripple would greatly increase",
+      "Excessive current could cause a fire",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T0A06",
+    "correct": 3,
+    "question": "What is a good way to guard against electrical shock at your station?",
+    "answers": [
+      "Use three-wire cords and plugs for all AC powered equipment",
+      "Connect all AC powered station equipment to a common safety ground",
+      "Install mechanical interlocks in high-voltage circuits",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T0A07",
+    "correct": 3,
+    "question": "Where should a lightning arrester be installed in a coaxial feed line?",
+    "answers": [
+      "At the output connector of a transceiver",
+      "At the antenna feed point",
+      "At the ac power service panel",
+      "On a grounded panel near where feed lines enter the building"
+    ]
+  },
+  {
+    "id": "T0A08",
+    "correct": 0,
+    "question": "Where should a fuse or circuit breaker be installed in a 120V AC power circuit?",
+    "answers": [
+      "In series with the hot conductor only",
+      "In series with the hot and neutral conductors",
+      "In parallel with the hot conductor only",
+      "In parallel with the hot and neutral conductors"
+    ]
+  },
+  {
+    "id": "T0A09",
+    "correct": 2,
+    "question": "What should be done to all external ground rods or earth connections?",
+    "answers": [
+      "Waterproof them with silicone caulk or electrical tape",
+      "Keep them as far apart as possible",
+      "Bond them together with heavy wire or conductive strap",
+      "Tune them for resonance on the lowest frequency of operation"
+    ]
+  },
+  {
+    "id": "T0A10",
+    "correct": 0,
+    "question": "What hazard is caused by charging or discharging a battery too quickly?",
+    "answers": [
+      "Overheating or out-gassing",
+      "Excess output ripple",
+      "Half-wave rectification",
+      "Inverse memory effect"
+    ]
+  },
+  {
+    "id": "T0A11",
+    "correct": 3,
+    "question": "What hazard exists in a power supply immediately after turning it off?",
+    "answers": [
+      "Circulating currents in the dc filter",
+      "Leakage flux in the power transformer",
+      "Voltage transients from kickback diodes",
+      "Charge stored in filter capacitors"
+    ]
+  },
+  {
+    "id": "T0A12",
+    "correct": 1,
+    "question": "Which of the following precautions should be taken when measuring high voltages with a voltmeter?",
+    "answers": [
+      "Ensure that the voltmeter has very low impedance",
+      "Ensure that the voltmeter and leads are rated for use at the voltages to be measured",
+      "Ensure that the circuit is grounded through the voltmeter",
+      "Ensure that the voltmeter is set to the correct frequency"
+    ]
+  }
+]

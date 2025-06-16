@@ -1,0 +1,123 @@
+[
+  {
+    "id": "T1E01",
+    "correct": 3,
+    "question": "When may an amateur station transmit without a control operator?",
+    "answers": [
+      "When using automatic control, such as in the case of a repeater",
+      "When the station licensee is away and another licensed amateur is using the station",
+      "When the transmitting station is an auxiliary station",
+      "Never"
+    ]
+  },
+  {
+    "id": "T1E02",
+    "correct": 3,
+    "question": "Who may be the control operator of a station communicating through an amateur satellite or space station?",
+    "answers": [
+      "Only an Amateur Extra Class operator",
+      "A General class or higher licensee with a satellite operator certification",
+      "Only an Amateur Extra Class operator who is also an AMSAT member",
+      "Any amateur allowed to transmit on the satellite uplink frequency"
+    ]
+  },
+  {
+    "id": "T1E03",
+    "correct": 0,
+    "question": "Who must designate the station control operator?",
+    "answers": [
+      "The station licensee",
+      "The FCC",
+      "The frequency coordinator",
+      "Any licensed operator"
+    ]
+  },
+  {
+    "id": "T1E04",
+    "correct": 3,
+    "question": "What determines the transmitting frequency privileges of an amateur station?",
+    "answers": [
+      "The frequency authorized by the frequency coordinator",
+      "The frequencies printed on the license grant",
+      "The highest class of operator license held by anyone on the premises",
+      "The class of operator license held by the control operator"
+    ]
+  },
+  {
+    "id": "T1E05",
+    "correct": 2,
+    "question": "What is an amateur station’s control point?",
+    "answers": [
+      "The location of the station’s transmitting antenna",
+      "The location of the station’s transmitting apparatus",
+      "The location at which the control operator function is performed",
+      "The mailing address of the station licensee"
+    ]
+  },
+  {
+    "id": "T1E06",
+    "correct": 0,
+    "question": "When, under normal circumstances, may a Technician class licensee be the control operator of a station operating in an Amateur Extra Class band segment?",
+    "answers": [
+      "At no time",
+      "When designated as the control operator by an Amateur Extra Class licensee",
+      "As part of a multi-operator contest team",
+      "When using a club station whose trustee holds an Amateur Extra Class license"
+    ]
+  },
+  {
+    "id": "T1E07",
+    "correct": 3,
+    "question": "When the control operator is not the station licensee, who is responsible for the proper operation of the station?",
+    "answers": [
+      "All licensed amateurs who are present at the operation",
+      "Only the station licensee",
+      "Only the control operator",
+      "The control operator and the station licensee"
+    ]
+  },
+  {
+    "id": "T1E08",
+    "correct": 0,
+    "question": "Which of the following is an example of automatic control?",
+    "answers": [
+      "Repeater operation",
+      "Controlling a station over the internet",
+      "Using a computer or other device to send CW automatically",
+      "Using a computer or other device to identify automatically"
+    ]
+  },
+  {
+    "id": "T1E09",
+    "correct": 3,
+    "question": "Which of the following are required for remote control operation?",
+    "answers": [
+      "The control operator must be at the control point",
+      "A control operator is required at all times",
+      "The control operator must indirectly manipulate the controls",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T1E10",
+    "correct": 1,
+    "question": "Which of the following is an example of remote control as defined in Part 97?",
+    "answers": [
+      "Repeater operation",
+      "Operating the station over the internet",
+      "Controlling a model aircraft, boat, or car by amateur radio",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T1E11",
+    "correct": 3,
+    "question": "Who does the FCC presume to be the control operator of an amateur station, unless documentation to the contrary is in the station records?",
+    "answers": [
+      "The station custodian",
+      "The third party participant",
+      "The person operating the station equipment",
+      "The station licensee"
+    ]
+  }
+]

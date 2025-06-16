@@ -1,0 +1,112 @@
+[
+  {
+    "id": "T7D01",
+    "correct": 1,
+    "question": "Which instrument would you use to measure electric potential?",
+    "answers": [
+      "An ammeter",
+      "A voltmeter",
+      "A wavemeter",
+      "An ohmmeter"
+    ]
+  },
+  {
+    "id": "T7D02",
+    "correct": 1,
+    "question": "How is a voltmeter connected to a component to measure applied voltage?",
+    "answers": [
+      "In series",
+      "In parallel",
+      "In quadrature",
+      "In phase"
+    ]
+  },
+  {
+    "id": "T7D03",
+    "correct": 0,
+    "question": "When configured to measure current, how is a multimeter connected to a component?",
+    "answers": [
+      "In series",
+      "In parallel",
+      "In quadrature",
+      "In phase"
+    ]
+  },
+  {
+    "id": "T7D04",
+    "correct": 3,
+    "question": "Which instrument is used to measure electric current?",
+    "answers": [
+      "An ohmmeter",
+      "An electrometer",
+      "A voltmeter",
+      "An ammeter"
+    ]
+  },
+  {
+    "id": "T7D06",
+    "correct": 2,
+    "question": "Which of the following can damage a multimeter?",
+    "answers": [
+      "Attempting to measure resistance using the voltage setting",
+      "Failing to connect one of the probes to ground",
+      "Attempting to measure voltage when using the resistance setting",
+      "Not allowing it to warm up properly"
+    ]
+  },
+  {
+    "id": "T7D07",
+    "correct": 2,
+    "question": "Which of the following measurements are made using a multimeter?",
+    "answers": [
+      "Signal strength and noise",
+      "Impedance and reactance",
+      "Voltage and resistance",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T7D08",
+    "correct": 0,
+    "question": "Which of the following types of solder should not be used for radio and electronic applications?",
+    "answers": [
+      "Acid-core solder",
+      "Lead-tin solder",
+      "Rosin-core solder",
+      "Tin-copper solder"
+    ]
+  },
+  {
+    "id": "T7D09",
+    "correct": 2,
+    "question": "What is the characteristic appearance of a cold tin-lead solder joint?",
+    "answers": [
+      "Dark black spots",
+      "A bright or shiny surface",
+      "A rough or lumpy surface",
+      "Excessive solder"
+    ]
+  },
+  {
+    "id": "T7D10",
+    "correct": 0,
+    "question": "What reading indicates that an ohmmeter is connected across a large, discharged capacitor?",
+    "answers": [
+      "Increasing resistance with time",
+      "Decreasing resistance with time",
+      "Steady full-scale reading",
+      "Alternating between open and short circuit"
+    ]
+  },
+  {
+    "id": "T7D11",
+    "correct": 1,
+    "question": "Which of the following precautions should be taken when measuring in-circuit resistance with an ohmmeter?",
+    "answers": [
+      "Ensure that the applied voltages are correct",
+      "Ensure that the circuit is not powered",
+      "Ensure that the circuit is grounded",
+      "Ensure that the circuit is operating at the correct frequency"
+    ]
+  }
+]

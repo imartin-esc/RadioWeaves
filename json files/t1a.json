@@ -1,0 +1,123 @@
+[
+  {
+    "id": "T1A01",
+    "correct": 2,
+    "question": "Which of the following is part of the Basis and Purpose of the Amateur Radio Service?",
+    "answers": [
+      "Providing personal radio communications for as many citizens as possible",
+      "Providing communications for international non-profit organizations",
+      "Advancing skills in the technical and communication phases of the radio art",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T1A02",
+    "correct": 2,
+    "question": "Which agency regulates and enforces the rules for the Amateur Radio Service in the United States?",
+    "answers": [
+      "FEMA",
+      "Homeland Security",
+      "The FCC",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T1A03",
+    "correct": 1,
+    "question": "What do the FCC rules state regarding the use of a phonetic alphabet for station identification in the Amateur Radio Service?",
+    "answers": [
+      "It is required when transmitting emergency messages",
+      "It is encouraged",
+      "It is required when in contact with foreign stations",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T1A04",
+    "correct": 0,
+    "question": "How many operator/primary station license grants may be held by any one person?",
+    "answers": [
+      "One",
+      "No more than two",
+      "One for each band on which the person plans to operate",
+      "One for each permanent station location from which the person plans to operate"
+    ]
+  },
+  {
+    "id": "T1A05",
+    "correct": 2,
+    "question": "What proves that the FCC has issued an operator/primary license grant?",
+    "answers": [
+      "A printed copy of the certificate of successful completion of examination",
+      "An email notification from the NCVEC granting the license",
+      "The license appears in the FCC ULS database",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T1A06",
+    "correct": 3,
+    "question": "What is the FCC Part 97 definition of a beacon?",
+    "answers": [
+      "A government transmitter marking the amateur radio band edges",
+      "A bulletin sent by the FCC to announce a national emergency",
+      "A continuous transmission of weather information authorized in the amateur bands by the National Weather Service",
+      "An amateur station transmitting communications for the purposes of observing propagation or related experimental activities"
+    ]
+  },
+  {
+    "id": "T1A07",
+    "correct": 2,
+    "question": "What is the FCC Part 97 definition of a space station?",
+    "answers": [
+      "Any satellite orbiting Earth",
+      "A manned satellite orbiting Earth",
+      "An amateur station located more than 50 km above Earth's surface",
+      "An amateur station using amateur radio satellites for relay of signals"
+    ]
+  },
+  {
+    "id": "T1A08",
+    "correct": 1,
+    "question": "Which of the following entities recommends transmit/receive channels and other parameters for auxiliary and repeater stations?",
+    "answers": [
+      "Frequency Spectrum Manager appointed by the FCC",
+      "Volunteer Frequency Coordinator recognized by local amateurs",
+      "FCC Regional Field Office",
+      "International Telecommunication Union"
+    ]
+  },
+  {
+    "id": "T1A09",
+    "correct": 2,
+    "question": "Who selects a Frequency Coordinator?",
+    "answers": [
+      "The FCC Office of Spectrum Management and Coordination Policy",
+      "The local chapter of the Office of National Council of Independent Frequency Coordinators",
+      "Amateur operators in a local or regional area whose stations are eligible to be repeater or auxiliary stations",
+      "FCC Regional Field Office"
+    ]
+  },
+  {
+    "id": "T1A10",
+    "correct": 3,
+    "question": "What is the Radio Amateur Civil Emergency Service (RACES)?",
+    "answers": [
+      "A radio service using amateur frequencies for emergency management or civil defense communications",
+      "A radio service using amateur stations for emergency management or civil defense communications",
+      "An emergency service using amateur operators certified by a civil defense organization as being enrolled in that organization",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T1A11",
+    "correct": 1,
+    "question": "When is willful interference to other amateur radio stations permitted?",
+    "answers": [
+      "To stop another amateur station that is breaking the FCC rules",
+      "At no time",
+      "When making short test transmissions",
+      "At any time, stations in the Amateur Radio Service are not protected from willful interference"
+    ]
+  }
+]

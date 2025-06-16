@@ -1,0 +1,134 @@
+[
+  {
+    "id": "T4B01",
+    "correct": 1,
+    "question": "What is the effect of excessive microphone gain on SSB transmissions?",
+    "answers": [
+      "Frequency instability",
+      "Distorted transmitted audio",
+      "Increased SWR",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T4B02",
+    "correct": 0,
+    "question": "Which of the following can be used to enter a transceiver’s operating frequency?",
+    "answers": [
+      "The keypad or VFO knob",
+      "The CTCSS or DTMF encoder",
+      "The Automatic Frequency Control",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T4B03",
+    "correct": 0,
+    "question": "How is squelch adjusted so that a weak FM signal can be heard?",
+    "answers": [
+      "Set the squelch threshold so that receiver output audio is on all the time",
+      "Turn up the audio level until it overcomes the squelch threshold",
+      "Turn on the anti-squelch function",
+      "Enable squelch enhancement"
+    ]
+  },
+  {
+    "id": "T4B04",
+    "correct": 1,
+    "question": "What is a way to enable quick access to a favorite frequency or channel on your transceiver?",
+    "answers": [
+      "Enable the frequency offset",
+      "Store it in a memory channel",
+      "Enable the VOX",
+      "Use the scan mode to select the desired frequency"
+    ]
+  },
+  {
+    "id": "T4B05",
+    "correct": 2,
+    "question": "What does the scanning function of an FM transceiver do?",
+    "answers": [
+      "Checks incoming signal deviation",
+      "Prevents interference to nearby repeaters",
+      "Tunes through a range of frequencies to check for activity",
+      "Checks for messages left on a digital bulletin board"
+    ]
+  },
+  {
+    "id": "T4B06",
+    "correct": 3,
+    "question": "Which of the following controls could be used if the voice pitch of a single-sideband signal returning to your CQ call seems too high or low?",
+    "answers": [
+      "The AGC or limiter",
+      "The bandwidth selection",
+      "The tone squelch",
+      "The RIT or Clarifier"
+    ]
+  },
+  {
+    "id": "T4B07",
+    "correct": 1,
+    "question": "What does a DMR “code plug” contain?",
+    "answers": [
+      "Your call sign in CW for automatic identification",
+      "Access information for repeaters and talkgroups",
+      "The codec for digitizing audio",
+      "The DMR software version"
+    ]
+  },
+  {
+    "id": "T4B08",
+    "correct": 1,
+    "question": "What is the advantage of having multiple receive bandwidth choices on a multimode transceiver?",
+    "answers": [
+      "Permits monitoring several modes at once by selecting a separate filter for each mode",
+      "Permits noise or interference reduction by selecting a bandwidth matching the mode",
+      "Increases the number of frequencies that can be stored in memory",
+      "Increases the amount of offset between receive and transmit frequencies"
+    ]
+  },
+  {
+    "id": "T4B09",
+    "correct": 2,
+    "question": "How is a specific group of stations selected on a digital voice transceiver?",
+    "answers": [
+      "By retrieving the frequencies from transceiver memory",
+      "By enabling the group’s CTCSS tone",
+      "By entering the group’s identification code",
+      "By activating automatic identification"
+    ]
+  },
+  {
+    "id": "T4B10",
+    "correct": 2,
+    "question": "Which of the following receiver filter bandwidths provides the best signal-to-noise ratio for SSB reception?",
+    "answers": [
+      "500 Hz",
+      "1000 Hz",
+      "2400 Hz",
+      "5000 Hz"
+    ]
+  },
+  {
+    "id": "T4B11",
+    "correct": 0,
+    "question": "Which of the following must be programmed into a D-STAR digital transceiver before transmitting?",
+    "answers": [
+      "Your call sign",
+      "Your output power",
+      "The codec type being used",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T4B12",
+    "correct": 3,
+    "question": "What is the result of tuning an FM receiver above or below a signal’s frequency?",
+    "answers": [
+      "Change in audio pitch",
+      "Sideband inversion",
+      "Generation of a heterodyne tone",
+      "Distortion of the signal’s audio"
+    ]
+  }
+]

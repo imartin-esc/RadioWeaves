@@ -1,0 +1,123 @@
+[
+  {
+    "id": "T7A01",
+    "correct": 1,
+    "question": "Which term describes the ability of a receiver to detect the presence of a signal?",
+    "answers": [
+      "Linearity",
+      "Sensitivity",
+      "Selectivity",
+      "Total Harmonic Distortion"
+    ]
+  },
+  {
+    "id": "T7A02",
+    "correct": 0,
+    "question": "What is a transceiver?",
+    "answers": [
+      "A device that combines a receiver and transmitter",
+      "A device for matching feed line impedance to 50 ohms",
+      "A device for automatically sending and decoding Morse code",
+      "A device for converting receiver and transmitter frequencies to another band"
+    ]
+  },
+  {
+    "id": "T7A03",
+    "correct": 1,
+    "question": "Which of the following is used to convert a signal from one frequency to another?",
+    "answers": [
+      "Phase splitter",
+      "Mixer",
+      "Inverter",
+      "Amplifier"
+    ]
+  },
+  {
+    "id": "T7A04",
+    "correct": 2,
+    "question": "Which term describes the ability of a receiver to discriminate between multiple signals?",
+    "answers": [
+      "Discrimination ratio",
+      "Sensitivity",
+      "Selectivity",
+      "Harmonic distortion"
+    ]
+  },
+  {
+    "id": "T7A05",
+    "correct": 3,
+    "question": "What is the name of a circuit that generates a signal at a specific frequency?",
+    "answers": [
+      "Reactance modulator",
+      "Phase modulator",
+      "Low-pass filter",
+      "Oscillator"
+    ]
+  },
+  {
+    "id": "T7A06",
+    "correct": 2,
+    "question": "What device converts the RF input and output of a transceiver to another band?",
+    "answers": [
+      "High-pass filter",
+      "Low-pass filter",
+      "Transverter",
+      "Phase converter"
+    ]
+  },
+  {
+    "id": "T7A07",
+    "correct": 1,
+    "question": "What is the function of a transceiver’s PTT input?",
+    "answers": [
+      "Input for a key used to send CW",
+      "Switches transceiver from receive to transmit when grounded",
+      "Provides a transmit tuning tone when grounded",
+      "Input for a preamplifier tuning tone"
+    ]
+  },
+  {
+    "id": "T7A08",
+    "correct": 2,
+    "question": "Which of the following describes combining speech with an RF carrier signal?",
+    "answers": [
+      "Impedance matching",
+      "Oscillation",
+      "Modulation",
+      "Low-pass filtering"
+    ]
+  },
+  {
+    "id": "T7A09",
+    "correct": 1,
+    "question": "What is the function of the SSB/CW-FM switch on a VHF power amplifier?",
+    "answers": [
+      "Change the mode of the transmitted signal",
+      "Set the amplifier for proper operation in the selected mode",
+      "Change the frequency range of the amplifier to operate in the proper segment of the band",
+      "Reduce the received signal noise"
+    ]
+  },
+  {
+    "id": "T7A10",
+    "correct": 1,
+    "question": "What device increases the transmitted output power from a transceiver?",
+    "answers": [
+      "A voltage divider",
+      "An RF power amplifier",
+      "An impedance network",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T7A11",
+    "correct": 0,
+    "question": "Where is an RF preamplifier installed?",
+    "answers": [
+      "Between the antenna and receiver",
+      "At the output of the transmitter power amplifier",
+      "Between the transmitter and the antenna tuner",
+      "At the output of the receiver audio amplifier"
+    ]
+  }
+]

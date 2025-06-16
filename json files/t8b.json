@@ -1,0 +1,134 @@
+[
+  {
+    "id": "T8B01",
+    "correct": 2,
+    "question": "What telemetry information is typically transmitted by satellite beacons?",
+    "answers": [
+      "The signal strength of received signals",
+      "Time of day accurate to plus or minus 1/10 second",
+      "Health and status of the satellite",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T8B02",
+    "correct": 1,
+    "question": "What is the impact of using excessive effective radiated power on a satellite uplink?",
+    "answers": [
+      "Possibility of commanding the satellite to an improper mode",
+      "Blocking access by other users",
+      "Overloading the satellite batteries",
+      "Possibility of rebooting the satellite control computer"
+    ]
+  },
+  {
+    "id": "T8B03",
+    "correct": 3,
+    "question": "Which of the following are provided by satellite tracking programs?",
+    "answers": [
+      "Maps showing the real-time position of the satellite track over Earth",
+      "The time, azimuth, and elevation of the start, maximum altitude, and end of a pass",
+      "The apparent frequency of the satellite transmission, including effects of Doppler shift",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T8B04",
+    "correct": 3,
+    "question": "What mode of transmission is commonly used by amateur radio satellites?",
+    "answers": [
+      "SSB",
+      "FM",
+      "CW/data",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T8B05",
+    "correct": 3,
+    "question": "What is a satellite beacon?",
+    "answers": [
+      "The primary transmit antenna on the satellite",
+      "An indicator light that shows where to point your antenna",
+      "A reflective surface on the satellite",
+      "A transmission from a satellite that contains status information"
+    ]
+  },
+  {
+    "id": "T8B06",
+    "correct": 1,
+    "question": "Which of the following are inputs to a satellite tracking program?",
+    "answers": [
+      "The satellite transmitted power",
+      "The Keplerian elements",
+      "The last observed time of zero Doppler shift",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T8B07",
+    "correct": 2,
+    "question": "What is Doppler shift in reference to satellite communications?",
+    "answers": [
+      "A change in the satellite orbit",
+      "A mode where the satellite receives signals on one band and transmits on another",
+      "An observed change in signal frequency caused by relative motion between the satellite and Earth station",
+      "A special digital communications mode for some satellites"
+    ]
+  },
+  {
+    "id": "T8B08",
+    "correct": 1,
+    "question": "What is meant by the statement that a satellite is operating in U/V mode?",
+    "answers": [
+      "The satellite uplink is in the 15 meter band and the downlink is in the 10 meter band",
+      "The satellite uplink is in the 70 centimeter band and the downlink is in the 2 meter band",
+      "The satellite operates using ultraviolet frequencies",
+      "The satellite frequencies are usually variable"
+    ]
+  },
+  {
+    "id": "T8B09",
+    "correct": 1,
+    "question": "What causes spin fading of satellite signals?",
+    "answers": [
+      "Circular polarized noise interference radiated from the sun",
+      "Rotation of the satellite and its antennas",
+      "Doppler shift of the received signal",
+      "Interfering signals within the satellite uplink band"
+    ]
+  },
+  {
+    "id": "T8B10",
+    "correct": 3,
+    "question": "What is a LEO satellite?",
+    "answers": [
+      "A sun synchronous satellite",
+      "A highly elliptical orbit satellite",
+      "A satellite in low energy operation mode",
+      "A satellite in low earth orbit"
+    ]
+  },
+  {
+    "id": "T8B11",
+    "correct": 0,
+    "question": "Who may receive telemetry from a space station?",
+    "answers": [
+      "Anyone",
+      "A licensed radio amateur with a transmitter equipped for interrogating the satellite",
+      "A licensed radio amateur who has been certified by the protocol developer",
+      "A licensed radio amateur who has registered for an access code from AMSAT"
+    ]
+  },
+  {
+    "id": "T8B12",
+    "correct": 2,
+    "question": "Which of the following is a way to determine whether your satellite uplink power is neither too low nor too high?",
+    "answers": [
+      "Check your signal strength report in the telemetry data",
+      "Listen for distortion on your downlink signal",
+      "Your signal strength on the downlink should be about the same as the beacon",
+      "All these choices are correct"
+    ]
+  }
+]

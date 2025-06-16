@@ -1,0 +1,123 @@
+[
+  {
+    "id": "T8C01",
+    "correct": 2,
+    "question": "Which of the following methods is used to locate sources of noise interference or jamming?",
+    "answers": [
+      "Echolocation",
+      "Doppler radar",
+      "Radio direction finding",
+      "Phase locking"
+    ]
+  },
+  {
+    "id": "T8C02",
+    "correct": 1,
+    "question": "Which of these items would be useful for a hidden transmitter hunt?",
+    "answers": [
+      "Calibrated SWR meter",
+      "A directional antenna",
+      "A calibrated noise bridge",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T8C03",
+    "correct": 3,
+    "question": "What operating activity involves contacting as many stations as possible during a specified period?",
+    "answers": [
+      "Simulated emergency exercises",
+      "Net operations",
+      "Public service events",
+      "Contesting"
+    ]
+  },
+  {
+    "id": "T8C04",
+    "correct": 2,
+    "question": "Which of the following is good procedure when contacting another station in a contest?",
+    "answers": [
+      "Sign only the last two letters of your call if there are many other stations calling",
+      "Contact the station twice to be sure that you are in his log",
+      "Send only the minimum information needed for proper identification and the contest exchange",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T8C05",
+    "correct": 0,
+    "question": "What is a grid locator?",
+    "answers": [
+      "A letter-number designator assigned to a geographic location",
+      "A letter-number designator assigned to an azimuth and elevation",
+      "An instrument for neutralizing a final amplifier",
+      "An instrument for radio direction finding"
+    ]
+  },
+  {
+    "id": "T8C06",
+    "correct": 1,
+    "question": "How is over the air access to IRLP nodes accomplished?",
+    "answers": [
+      "By obtaining a password that is sent via voice to the node",
+      "By using DTMF signals",
+      "By entering the proper internet password",
+      "By using CTCSS tone codes"
+    ]
+  },
+  {
+    "id": "T8C07",
+    "correct": 3,
+    "question": "What is Voice Over Internet Protocol (VoIP)?",
+    "answers": [
+      "A set of rules specifying how to identify your station when linked over the internet to another station",
+      "A technique employed to “spot” DX stations via the internet",
+      "A technique for measuring the modulation quality of a transmitter using remote sites monitored via the internet",
+      "A method of delivering voice communications over the internet using digital techniques"
+    ]
+  },
+  {
+    "id": "T8C08",
+    "correct": 0,
+    "question": "What is the Internet Radio Linking Project (IRLP)?",
+    "answers": [
+      "A technique to connect amateur radio systems, such as repeaters, via the internet using Voice Over Internet Protocol (VoIP)",
+      "A system for providing access to websites via amateur radio",
+      "A system for informing amateurs in real time of the frequency of active DX stations",
+      "A technique for measuring signal strength of an amateur transmitter via the internet"
+    ]
+  },
+  {
+    "id": "T8C09",
+    "correct": 3,
+    "question": "Which of the following protocols enables an amateur station to transmit through a repeater without using a radio to initiate the transmission?",
+    "answers": [
+      "IRLP",
+      "D-STAR",
+      "DMR",
+      "EchoLink"
+    ]
+  },
+  {
+    "id": "T8C10",
+    "correct": 2,
+    "question": "What is required before using the EchoLink system?",
+    "answers": [
+      "Complete the required EchoLink training",
+      "Purchase a license to use the EchoLink software",
+      "Register your call sign and provide proof of license",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T8C11",
+    "correct": 0,
+    "question": "What is an amateur radio station that connects other amateur stations to the internet?",
+    "answers": [
+      "A gateway",
+      "A repeater",
+      "A digipeater",
+      "A beacon"
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "T5A01",
+    "correct": 3,
+    "question": "Electrical current is measured in which of the following units?",
+    "answers": [
+      "Volts",
+      "Watts",
+      "Ohms",
+      "Amperes"
+    ]
+  },
+  {
+    "id": "T5A02",
+    "correct": 1,
+    "question": "Electrical power is measured in which of the following units?",
+    "answers": [
+      "Volts",
+      "Watts",
+      "Watt-hours",
+      "Amperes"
+    ]
+  },
+  {
+    "id": "T5A03",
+    "correct": 3,
+    "question": "What is the name for the flow of electrons in an electric circuit?",
+    "answers": [
+      "Voltage",
+      "Resistance",
+      "Capacitance",
+      "Current"
+    ]
+  },
+  {
+    "id": "T5A04",
+    "correct": 2,
+    "question": "What are the units of electrical resistance?",
+    "answers": [
+      "Siemens",
+      "Mhos",
+      "Ohms",
+      "Coulombs"
+    ]
+  },
+  {
+    "id": "T5A05",
+    "correct": 0,
+    "question": "What is the electrical term for the force that causes electron flow?",
+    "answers": [
+      "Voltage",
+      "Ampere-hours",
+      "Capacitance",
+      "Inductance"
+    ]
+  },
+  {
+    "id": "T5A06",
+    "correct": 0,
+    "question": "What is the unit of frequency?",
+    "answers": [
+      "Hertz",
+      "Henry",
+      "Farad",
+      "Tesla"
+    ]
+  },
+  {
+    "id": "T5A07",
+    "correct": 1,
+    "question": "Why are metals generally good conductors of electricity?",
+    "answers": [
+      "They have relatively high density",
+      "They have many free electrons",
+      "They have many free protons",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T5A08",
+    "correct": 1,
+    "question": "Which of the following is a good electrical insulator?",
+    "answers": [
+      "Copper",
+      "Glass",
+      "Aluminum",
+      "Mercury"
+    ]
+  },
+  {
+    "id": "T5A09",
+    "correct": 2,
+    "question": "Which of the following describes alternating current?",
+    "answers": [
+      "Current that alternates between a positive direction and zero",
+      "Current that alternates between a negative direction and zero",
+      "Current that alternates between positive and negative directions",
+      "All these answers are correct"
+    ]
+  },
+  {
+    "id": "T5A10",
+    "correct": 2,
+    "question": "Which term describes the rate at which electrical energy is used?",
+    "answers": [
+      "Resistance",
+      "Current",
+      "Power",
+      "Voltage"
+    ]
+  },
+  {
+    "id": "T5A11",
+    "correct": 3,
+    "question": "What type of current flow is opposed by resistance?",
+    "answers": [
+      "Direct current",
+      "Alternating current",
+      "RF current",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T5A12",
+    "correct": 3,
+    "question": "What describes the number of times per second that an alternating current makes a complete cycle?",
+    "answers": [
+      "Pulse rate",
+      "Speed",
+      "Wavelength",
+      "Frequency"
+    ]
+  }
+]

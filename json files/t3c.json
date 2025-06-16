@@ -1,0 +1,123 @@
+[
+  {
+    "id": "T3C01",
+    "correct": 2,
+    "question": "Why are simplex UHF signals rarely heard beyond their radio horizon?",
+    "answers": [
+      "They are too weak to go very far",
+      "FCC regulations prohibit them from going more than 50 miles",
+      "UHF signals are usually not propagated by the ionosphere",
+      "UHF signals are absorbed by the ionospheric D region"
+    ]
+  },
+  {
+    "id": "T3C02",
+    "correct": 2,
+    "question": "What is a characteristic of HF communication compared with communications on VHF and higher frequencies?",
+    "answers": [
+      "HF antennas are generally smaller",
+      "HF accommodates wider bandwidth signals",
+      "Long-distance ionospheric propagation is far more common on HF",
+      "There is less atmospheric interference (static) on HF"
+    ]
+  },
+  {
+    "id": "T3C03",
+    "correct": 1,
+    "question": "What is a characteristic of VHF signals received via auroral backscatter?",
+    "answers": [
+      "They are often received from 10,000 miles or more",
+      "They are distorted and signal strength varies considerably",
+      "They occur only during winter nighttime hours",
+      "They are generally strongest when your antenna is aimed west"
+    ]
+  },
+  {
+    "id": "T3C04",
+    "correct": 1,
+    "question": "Which of the following types of propagation is most commonly associated with occasional strong signals on the 10, 6, and 2 meter bands from beyond the radio horizon?",
+    "answers": [
+      "Backscatter",
+      "Sporadic E",
+      "D region absorption",
+      "Gray-line propagation"
+    ]
+  },
+  {
+    "id": "T3C05",
+    "correct": 0,
+    "question": "Which of the following effects may allow radio signals to travel beyond obstructions between the transmitting and receiving stations?",
+    "answers": [
+      "Knife-edge diffraction",
+      "Faraday rotation",
+      "Quantum tunneling",
+      "Doppler shift"
+    ]
+  },
+  {
+    "id": "T3C06",
+    "correct": 0,
+    "question": "What type of propagation is responsible for allowing over-the-horizon VHF and UHF communications to ranges of approximately 300 miles on a regular basis?",
+    "answers": [
+      "Tropospheric ducting",
+      "D region refraction",
+      "F2 region refraction",
+      "Faraday rotation"
+    ]
+  },
+  {
+    "id": "T3C07",
+    "correct": 1,
+    "question": "What band is best suited for communicating via meteor scatter?",
+    "answers": [
+      "33 centimeters",
+      "6 meters",
+      "2 meters",
+      "70 centimeters"
+    ]
+  },
+  {
+    "id": "T3C08",
+    "correct": 3,
+    "question": "What causes tropospheric ducting?",
+    "answers": [
+      "Discharges of lightning during electrical storms",
+      "Sunspots and solar flares",
+      "Updrafts from hurricanes and tornadoes",
+      "Temperature inversions in the atmosphere"
+    ]
+  },
+  {
+    "id": "T3C09",
+    "correct": 0,
+    "question": "What is generally the best time for long-distance 10 meter band propagation via the F region?",
+    "answers": [
+      "From dawn to shortly after sunset during periods of high sunspot activity",
+      "From shortly after sunset to dawn during periods of high sunspot activity",
+      "From dawn to shortly after sunset during periods of low sunspot activity",
+      "From shortly after sunset to dawn during periods of low sunspot activity"
+    ]
+  },
+  {
+    "id": "T3C10",
+    "correct": 0,
+    "question": "Which of the following bands may provide long-distance communications via the ionosphere’s F region during the peak of the sunspot cycle?",
+    "answers": [
+      "6 and 10 meters",
+      "23 centimeters",
+      "70 centimeters and 1.25 meters",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T3C11",
+    "correct": 2,
+    "question": "Why is the radio horizon for VHF and UHF signals more distant than the visual horizon?",
+    "answers": [
+      "Radio signals move somewhat faster than the speed of light",
+      "Radio waves are not blocked by dust particles",
+      "The atmosphere refracts radio waves slightly",
+      "Radio waves are blocked by dust particles"
+    ]
+  }
+]

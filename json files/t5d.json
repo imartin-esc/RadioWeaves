@@ -1,0 +1,156 @@
+[
+  {
+    "id": "T5D01",
+    "correct": 1,
+    "question": "What formula is used to calculate current in a circuit?",
+    "answers": [
+      "I = E × R",
+      "I = E / R",
+      "I = E + R",
+      "I = E - R"
+    ]
+  },
+  {
+    "id": "T5D02",
+    "correct": 0,
+    "question": "What formula is used to calculate voltage in a circuit?",
+    "answers": [
+      "E = I x R",
+      "E = I / R",
+      "E = I + R",
+      "E = I - R"
+    ]
+  },
+  {
+    "id": "T5D03",
+    "correct": 1,
+    "question": "What formula is used to calculate resistance in a circuit?",
+    "answers": [
+      "R = E x I",
+      "R = E / I",
+      "R = E + I",
+      "R = E - I"
+    ]
+  },
+  {
+    "id": "T5D04",
+    "correct": 1,
+    "question": "What is the resistance of a circuit in which a current of 3 amperes flows when connected to 90 volts?",
+    "answers": [
+      "3 ohms",
+      "30 ohms",
+      "93 ohms",
+      "270 ohms"
+    ]
+  },
+  {
+    "id": "T5D05",
+    "correct": 2,
+    "question": "What is the resistance of a circuit for which the applied voltage is 12 volts and the current flow is 1.5 amperes?",
+    "answers": [
+      "18 ohms",
+      "0.125 ohms",
+      "8 ohms",
+      "13.5 ohms"
+    ]
+  },
+  {
+    "id": "T5D06",
+    "correct": 0,
+    "question": "What is the resistance of a circuit that draws 4 amperes from a 12-volt source?",
+    "answers": [
+      "3 ohms",
+      "16 ohms",
+      "48 ohms",
+      "8 ohms"
+    ]
+  },
+  {
+    "id": "T5D07",
+    "correct": 3,
+    "question": "What is the current in a circuit with an applied voltage of 120 volts and a resistance of 80 ohms?",
+    "answers": [
+      "9600 amperes",
+      "200 amperes",
+      "0.667 amperes",
+      "1.5 amperes"
+    ]
+  },
+  {
+    "id": "T5D08",
+    "correct": 2,
+    "question": "What is the current through a 100-ohm resistor connected across 200 volts?",
+    "answers": [
+      "20,000 amperes",
+      "0.5 amperes",
+      "2 amperes",
+      "100 amperes"
+    ]
+  },
+  {
+    "id": "T5D09",
+    "correct": 2,
+    "question": "What is the current through a 24-ohm resistor connected across 240 volts?",
+    "answers": [
+      "24,000 amperes",
+      "0.1 amperes",
+      "10 amperes",
+      "216 amperes"
+    ]
+  },
+  {
+    "id": "T5D10",
+    "correct": 0,
+    "question": "What is the voltage across a 2-ohm resistor if a current of 0.5 amperes flows through it?",
+    "answers": [
+      "1 volt",
+      "0.25 volts",
+      "2.5 volts",
+      "1.5 volts"
+    ]
+  },
+  {
+    "id": "T5D11",
+    "correct": 1,
+    "question": "What is the voltage across a 10-ohm resistor if a current of 1 ampere flows through it?",
+    "answers": [
+      "1 volt",
+      "10 volts",
+      "11 volts",
+      "9 volts"
+    ]
+  },
+  {
+    "id": "T5D12",
+    "correct": 3,
+    "question": "What is the voltage across a 10-ohm resistor if a current of 2 amperes flows through it?",
+    "answers": [
+      "8 volts",
+      "0.2 volts",
+      "12 volts",
+      "20 volts"
+    ]
+  },
+  {
+    "id": "T5D13",
+    "correct": 0,
+    "question": "In which type of circuit is DC current the same through all components?",
+    "answers": [
+      "Series",
+      "Parallel",
+      "Resonant",
+      "Branch"
+    ]
+  },
+  {
+    "id": "T5D14",
+    "correct": 1,
+    "question": "In which type of circuit is voltage the same across all components?",
+    "answers": [
+      "Series",
+      "Parallel",
+      "Resonant",
+      "Branch"
+    ]
+  }
+]

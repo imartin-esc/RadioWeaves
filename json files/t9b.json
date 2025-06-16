@@ -1,0 +1,134 @@
+[
+  {
+    "id": "T9B01",
+    "correct": 1,
+    "question": "What is a benefit of low SWR?",
+    "answers": [
+      "Reduced television interference",
+      "Reduced signal loss",
+      "Less antenna wear",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T9B02",
+    "correct": 1,
+    "question": "What is the most common impedance of coaxial cables used in amateur radio?",
+    "answers": [
+      "8 ohms",
+      "50 ohms",
+      "600 ohms",
+      "12 ohms"
+    ]
+  },
+  {
+    "id": "T9B03",
+    "correct": 0,
+    "question": "Why is coaxial cable the most common feed line for amateur radio antenna systems?",
+    "answers": [
+      "It is easy to use and requires few special installation considerations",
+      "It has less loss than any other type of feed line",
+      "It can handle more power than any other type of feed line",
+      "It is less expensive than any other type of feed line"
+    ]
+  },
+  {
+    "id": "T9B04",
+    "correct": 0,
+    "question": "What is the major function of an antenna tuner (antenna coupler)?",
+    "answers": [
+      "It matches the antenna system impedance to the transceiver's output impedance",
+      "It helps a receiver automatically tune in weak stations",
+      "It allows an antenna to be used on both transmit and receive",
+      "It automatically selects the proper antenna for the frequency band being used"
+    ]
+  },
+  {
+    "id": "T9B05",
+    "correct": 3,
+    "question": "What happens as the frequency of a signal in coaxial cable is increased?",
+    "answers": [
+      "The characteristic impedance decreases",
+      "The loss decreases",
+      "The characteristic impedance increases",
+      "The loss increases"
+    ]
+  },
+  {
+    "id": "T9B06",
+    "correct": 1,
+    "question": "Which of the following RF connector types is most suitable for frequencies above 400 MHz?",
+    "answers": [
+      "UHF (PL-259/SO-239)",
+      "Type N",
+      "RS-213",
+      "DB-25"
+    ]
+  },
+  {
+    "id": "T9B07",
+    "correct": 2,
+    "question": "Which of the following is true of PL-259 type coax connectors?",
+    "answers": [
+      "They are preferred for microwave operation",
+      "They are watertight",
+      "They are commonly used at HF and VHF frequencies",
+      "They are a bayonet-type connector"
+    ]
+  },
+  {
+    "id": "T9B08",
+    "correct": 3,
+    "question": "Which of the following is a source of loss in coaxial feed line?",
+    "answers": [
+      "Water intrusion into coaxial connectors",
+      "High SWR",
+      "Multiple connectors in the line",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T9B09",
+    "correct": 1,
+    "question": "What can cause erratic changes in SWR?",
+    "answers": [
+      "Local thunderstorm",
+      "Loose connection in the antenna or feed line",
+      "Over-modulation",
+      "Overload from a strong local station"
+    ]
+  },
+  {
+    "id": "T9B10",
+    "correct": 2,
+    "question": "What is the electrical difference between RG-58 and RG-213 coaxial cable?",
+    "answers": [
+      "There is no significant difference between the two types",
+      "RG-58 cable has two shields",
+      "RG-213 cable has less loss at a given frequency",
+      "RG-58 cable can handle higher power levels"
+    ]
+  },
+  {
+    "id": "T9B11",
+    "correct": 2,
+    "question": "Which of the following types of feed line has the lowest loss at VHF and UHF?",
+    "answers": [
+      "50-ohm flexible coax",
+      "Multi-conductor unbalanced cable",
+      "Air-insulated hardline",
+      "75-ohm flexible coax"
+    ]
+  },
+  {
+    "id": "T9B12",
+    "correct": 0,
+    "question": "What is standing wave ratio (SWR)?",
+    "answers": [
+      "A measure of how well a load is matched to a transmission line",
+      "The ratio of amplifier power output to input",
+      "The transmitter efficiency ratio",
+      "An indication of the quality of your station’s ground connection"
+    ]
+  }
+]

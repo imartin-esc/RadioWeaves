@@ -1,0 +1,134 @@
+[
+  {
+    "id": "T6C01",
+    "correct": 2,
+    "question": "What is the name of an electrical wiring diagram that uses standard component symbols?",
+    "answers": [
+      "Bill of materials",
+      "Connector pinout",
+      "Schematic",
+      "Flow chart"
+    ]
+  },
+  {
+    "id": "T6C02",
+    "correct": 0,
+    "question": "What is component 1 in figure T-1?",
+    "answers": [
+      "Resistor",
+      "Transistor",
+      "Battery",
+      "Connector"
+    ]
+  },
+  {
+    "id": "T6C03",
+    "correct": 1,
+    "question": "What is component 2 in figure T-1?",
+    "answers": [
+      "Resistor",
+      "Transistor",
+      "Indicator lamp",
+      "Connector"
+    ]
+  },
+  {
+    "id": "T6C04",
+    "correct": 2,
+    "question": "What is component 3 in figure T-1?",
+    "answers": [
+      "Resistor",
+      "Transistor",
+      "Lamp",
+      "Ground symbol"
+    ]
+  },
+  {
+    "id": "T6C05",
+    "correct": 3,
+    "question": "What is component 4 in figure T-1?",
+    "answers": [
+      "Resistor",
+      "Transistor",
+      "Ground symbol",
+      "Battery"
+    ]
+  },
+  {
+    "id": "T6C06",
+    "correct": 1,
+    "question": "What is component 6 in figure T-2?",
+    "answers": [
+      "Resistor",
+      "Capacitor",
+      "Regulator IC",
+      "Transistor"
+    ]
+  },
+  {
+    "id": "T6C07",
+    "correct": 3,
+    "question": "What is component 8 in figure T-2?",
+    "answers": [
+      "Resistor",
+      "Inductor",
+      "Regulator IC",
+      "Light emitting diode"
+    ]
+  },
+  {
+    "id": "T6C08",
+    "correct": 2,
+    "question": "What is component 9 in figure T-2?",
+    "answers": [
+      "Variable capacitor",
+      "Variable inductor",
+      "Variable resistor",
+      "Variable transformer"
+    ]
+  },
+  {
+    "id": "T6C09",
+    "correct": 3,
+    "question": "What is component 4 in figure T-2?",
+    "answers": [
+      "Variable inductor",
+      "Double-pole switch",
+      "Potentiometer",
+      "Transformer"
+    ]
+  },
+  {
+    "id": "T6C10",
+    "correct": 3,
+    "question": "What is component 3 in figure T-3?",
+    "answers": [
+      "Connector",
+      "Meter",
+      "Variable capacitor",
+      "Variable inductor"
+    ]
+  },
+  {
+    "id": "T6C11",
+    "correct": 0,
+    "question": "What is component 4 in figure T-3?",
+    "answers": [
+      "Antenna",
+      "Transmitter",
+      "Dummy load",
+      "Ground"
+    ]
+  },
+  {
+    "id": "T6C12",
+    "correct": 2,
+    "question": "Which of the following is accurately represented in electrical schematics?",
+    "answers": [
+      "Wire lengths",
+      "Physical appearance of components",
+      "Component connections",
+      "All these choices are correct"
+    ]
+  }
+]

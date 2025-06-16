@@ -1,0 +1,145 @@
+[
+  {
+    "id": "T5B01",
+    "correct": 2,
+    "question": "How many milliamperes is 1.5 amperes?",
+    "answers": [
+      "15 milliamperes",
+      "150 milliamperes",
+      "1500 milliamperes",
+      "15,000 milliamperes"
+    ]
+  },
+  {
+    "id": "T5B02",
+    "correct": 0,
+    "question": "Which is equal to 1,500,000 hertz?",
+    "answers": [
+      "1500 kHz",
+      "1500 MHz",
+      "15 GHz",
+      "150 kHz"
+    ]
+  },
+  {
+    "id": "T5B03",
+    "correct": 2,
+    "question": "Which is equal to one kilovolt?",
+    "answers": [
+      "One one-thousandth of a volt",
+      "One hundred volts",
+      "One thousand volts",
+      "One million volts"
+    ]
+  },
+  {
+    "id": "T5B04",
+    "correct": 0,
+    "question": "Which is equal to one microvolt?",
+    "answers": [
+      "One one-millionth of a volt",
+      "One million volts",
+      "One thousand kilovolts",
+      "One one-thousandth of a volt"
+    ]
+  },
+  {
+    "id": "T5B05",
+    "correct": 1,
+    "question": "Which is equal to 500 milliwatts?",
+    "answers": [
+      "0.02 watts",
+      "0.5 watts",
+      "5 watts",
+      "50 watts"
+    ]
+  },
+  {
+    "id": "T5B06",
+    "correct": 3,
+    "question": "Which is equal to 3000 milliamperes?",
+    "answers": [
+      "0.003 amperes",
+      "0.3 amperes",
+      "3,000,000 amperes",
+      "3 amperes"
+    ]
+  },
+  {
+    "id": "T5B07",
+    "correct": 2,
+    "question": "Which is equal to 3.525 MHz?",
+    "answers": [
+      "0.003525 kHz",
+      "35.25 kHz",
+      "3525 kHz",
+      "3,525,000 kHz"
+    ]
+  },
+  {
+    "id": "T5B08",
+    "correct": 1,
+    "question": "Which is equal to 1,000,000 picofarads?",
+    "answers": [
+      "0.001 microfarads",
+      "1 microfarad",
+      "1000 microfarads",
+      "1,000,000,000 microfarads"
+    ]
+  },
+  {
+    "id": "T5B09",
+    "correct": 1,
+    "question": "Which decibel value most closely represents a power increase from 5 watts to 10 watts?",
+    "answers": [
+      "2 dB",
+      "3 dB",
+      "5 dB",
+      "10 dB"
+    ]
+  },
+  {
+    "id": "T5B10",
+    "correct": 2,
+    "question": "Which decibel value most closely represents a power decrease from 12 watts to 3 watts?",
+    "answers": [
+      "-1 dB",
+      "-3 dB",
+      "-6 dB",
+      "-9 dB"
+    ]
+  },
+  {
+    "id": "T5B11",
+    "correct": 0,
+    "question": "Which decibel value represents a power increase from 20 watts to 200 watts?",
+    "answers": [
+      "10 dB",
+      "12 dB",
+      "18 dB",
+      "28 dB"
+    ]
+  },
+  {
+    "id": "T5B12",
+    "correct": 3,
+    "question": "Which is equal to 28400 kHz?",
+    "answers": [
+      "28.400 kHz",
+      "2.800 MHz",
+      "284.00 MHz",
+      "28.400 MHz"
+    ]
+  },
+  {
+    "id": "T5B13",
+    "correct": 2,
+    "question": "Which is equal to 2425 MHz?",
+    "answers": [
+      "0.002425 GHz",
+      "24.25 GHz",
+      "2.425 GHz",
+      "2425 GHz"
+    ]
+  }
+]

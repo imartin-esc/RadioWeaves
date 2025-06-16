@@ -1,0 +1,123 @@
+[
+  {
+    "id": "T7C01",
+    "correct": 0,
+    "question": "What is the primary purpose of a dummy load?",
+    "answers": [
+      "To prevent transmitting signals over the air when making tests",
+      "To prevent over-modulation of a transmitter",
+      "To improve the efficiency of an antenna",
+      "To improve the signal-to-noise ratio of a receiver"
+    ]
+  },
+  {
+    "id": "T7C02",
+    "correct": 1,
+    "question": "Which of the following is used to determine if an antenna is resonant at the desired operating frequency?",
+    "answers": [
+      "A VTVM",
+      "An antenna analyzer",
+      "A Q meter",
+      "A frequency counter"
+    ]
+  },
+  {
+    "id": "T7C03",
+    "correct": 1,
+    "question": "What does a dummy load consist of?",
+    "answers": [
+      "A high-gain amplifier and a TR switch",
+      "A non-inductive resistor mounted on a heat sink",
+      "A low-voltage power supply and a DC relay",
+      "A 50-ohm reactance used to terminate a transmission line"
+    ]
+  },
+  {
+    "id": "T7C04",
+    "correct": 2,
+    "question": "What reading on an SWR meter indicates a perfect impedance match between the antenna and the feed line?",
+    "answers": [
+      "50:50",
+      "Zero",
+      "1:1",
+      "Full Scale"
+    ]
+  },
+  {
+    "id": "T7C05",
+    "correct": 0,
+    "question": "Why do most solid-state transmitters reduce output power as SWR increases beyond a certain level?",
+    "answers": [
+      "To protect the output amplifier transistors",
+      "To comply with FCC rules on spectral purity",
+      "Because power supplies cannot supply enough current at high SWR",
+      "To lower the SWR on the transmission line"
+    ]
+  },
+  {
+    "id": "T7C06",
+    "correct": 3,
+    "question": "What does an SWR reading of 4:1 indicate?",
+    "answers": [
+      "Loss of -4 dB",
+      "Good impedance match",
+      "Gain of +4 dB",
+      "Impedance mismatch"
+    ]
+  },
+  {
+    "id": "T7C07",
+    "correct": 2,
+    "question": "What happens to power lost in a feed line?",
+    "answers": [
+      "It increases the SWR",
+      "It is radiated as harmonics",
+      "It is converted into heat",
+      "It distorts the signal"
+    ]
+  },
+  {
+    "id": "T7C08",
+    "correct": 3,
+    "question": "Which instrument can be used to determine SWR?",
+    "answers": [
+      "Voltmeter",
+      "Ohmmeter",
+      "Iambic pentameter",
+      "Directional wattmeter"
+    ]
+  },
+  {
+    "id": "T7C09",
+    "correct": 0,
+    "question": "Which of the following causes failure of coaxial cables?",
+    "answers": [
+      "Moisture contamination",
+      "Solder flux contamination",
+      "Rapid fluctuation in transmitter output power",
+      "Operation at 100% duty cycle for an extended period"
+    ]
+  },
+  {
+    "id": "T7C10",
+    "correct": 3,
+    "question": "Why should the outer jacket of coaxial cable be resistant to ultraviolet light?",
+    "answers": [
+      "Ultraviolet resistant jackets prevent harmonic radiation",
+      "Ultraviolet light can increase losses in the cable’s jacket",
+      "Ultraviolet and RF signals can mix, causing interference",
+      "Ultraviolet light can damage the jacket and allow water to enter the cable"
+    ]
+  },
+  {
+    "id": "T7C11",
+    "correct": 2,
+    "question": "What is a disadvantage of air core coaxial cable when compared to foam or solid dielectric types?",
+    "answers": [
+      "It has more loss per foot",
+      "It cannot be used for VHF or UHF antennas",
+      "It requires special techniques to prevent moisture in the cable",
+      "It cannot be used at below freezing temperatures"
+    ]
+  }
+]

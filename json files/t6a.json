@@ -1,0 +1,134 @@
+[
+  {
+    "id": "T6A01",
+    "correct": 1,
+    "question": "What electrical component opposes the flow of current in a DC circuit?",
+    "answers": [
+      "Inductor",
+      "Resistor",
+      "Inverter",
+      "Transformer"
+    ]
+  },
+  {
+    "id": "T6A02",
+    "correct": 2,
+    "question": "What type of component is often used as an adjustable volume control?",
+    "answers": [
+      "Fixed resistor",
+      "Power resistor",
+      "Potentiometer",
+      "Transformer"
+    ]
+  },
+  {
+    "id": "T6A03",
+    "correct": 1,
+    "question": "What electrical parameter is controlled by a potentiometer?",
+    "answers": [
+      "Inductance",
+      "Resistance",
+      "Capacitance",
+      "Field strength"
+    ]
+  },
+  {
+    "id": "T6A04",
+    "correct": 1,
+    "question": "What electrical component stores energy in an electric field?",
+    "answers": [
+      "Varistor",
+      "Capacitor",
+      "Inductor",
+      "Diode"
+    ]
+  },
+  {
+    "id": "T6A05",
+    "correct": 3,
+    "question": "What type of electrical component consists of conductive surfaces separated by an insulator?",
+    "answers": [
+      "Resistor",
+      "Potentiometer",
+      "Oscillator",
+      "Capacitor"
+    ]
+  },
+  {
+    "id": "T6A06",
+    "correct": 2,
+    "question": "What type of electrical component stores energy in a magnetic field?",
+    "answers": [
+      "Varistor",
+      "Capacitor",
+      "Inductor",
+      "Diode"
+    ]
+  },
+  {
+    "id": "T6A07",
+    "correct": 3,
+    "question": "What electrical component is typically constructed as a coil of wire?",
+    "answers": [
+      "Switch",
+      "Capacitor",
+      "Diode",
+      "Inductor"
+    ]
+  },
+  {
+    "id": "T6A08",
+    "correct": 2,
+    "question": "What is the function of an SPDT switch?",
+    "answers": [
+      "A single circuit is opened or closed",
+      "Two circuits are opened or closed",
+      "A single circuit is switched between one of two other circuits",
+      "Two circuits are each switched between one of two other circuits"
+    ]
+  },
+  {
+    "id": "T6A09",
+    "correct": 0,
+    "question": "What electrical component is used to protect other circuit components from current overloads?",
+    "answers": [
+      "Fuse",
+      "Thyratron",
+      "Varactor",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T6A10",
+    "correct": 3,
+    "question": "Which of the following battery chemistries is rechargeable?",
+    "answers": [
+      "Nickel-metal hydride",
+      "Lithium-ion",
+      "Lead-acid",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T6A11",
+    "correct": 1,
+    "question": "Which of the following battery chemistries is not rechargeable?",
+    "answers": [
+      "Nickel-cadmium",
+      "Carbon-zinc",
+      "Lead-acid",
+      "Lithium-ion"
+    ]
+  },
+  {
+    "id": "T6A12",
+    "correct": 0,
+    "question": "What type of switch is represented by component 3 in figure T-2?",
+    "answers": [
+      "Single-pole single-throw",
+      "Single-pole double-throw",
+      "Double-pole single-throw",
+      "Double-pole double-throw"
+    ]
+  }
+]

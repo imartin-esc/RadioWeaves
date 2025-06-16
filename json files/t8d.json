@@ -1,0 +1,145 @@
+[
+  {
+    "id": "T8D01",
+    "correct": 3,
+    "question": "Which of the following is a digital communications mode?",
+    "answers": [
+      "Packet radio",
+      "IEEE 802.11",
+      "FT8",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T8D02",
+    "correct": 1,
+    "question": "What is a “talkgroup” on a DMR repeater?",
+    "answers": [
+      "A group of operators sharing common interests",
+      "A way for groups of users to share a channel at different times without hearing other users on the channel",
+      "A protocol that increases the signal-to-noise ratio when multiple repeaters are linked together",
+      "A net that meets at a specified time"
+    ]
+  },
+  {
+    "id": "T8D03",
+    "correct": 3,
+    "question": "What kind of data can be transmitted by APRS?",
+    "answers": [
+      "GPS position data",
+      "Text messages",
+      "Weather data",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T8D04",
+    "correct": 2,
+    "question": "What type of transmission is indicated by the term \"NTSC?\"",
+    "answers": [
+      "A Normal Transmission mode in Static Circuit",
+      "A special mode for satellite uplink",
+      "An analog fast-scan color TV signal",
+      "A frame compression scheme for TV signals"
+    ]
+  },
+  {
+    "id": "T8D05",
+    "correct": 0,
+    "question": "Which of the following is an application of APRS?",
+    "answers": [
+      "Providing real-time tactical digital communications in conjunction with a map showing the locations of stations",
+      "Showing automatically the number of packets transmitted via PACTOR during a specific time interval",
+      "Providing voice over internet connection between repeaters",
+      "Providing information on the number of stations signed into a repeater"
+    ]
+  },
+  {
+    "id": "T8D06",
+    "correct": 1,
+    "question": "What does the abbreviation \"PSK\" mean?",
+    "answers": [
+      "Pulse Shift Keying",
+      "Phase Shift Keying",
+      "Packet Short Keying",
+      "Phased Slide Keying"
+    ]
+  },
+  {
+    "id": "T8D07",
+    "correct": 0,
+    "question": "Which of the following describes DMR?",
+    "answers": [
+      "A technique for time-multiplexing two digital voice signals on a single 12.5 kHz repeater channel",
+      "An automatic position tracking mode for FM mobiles communicating through repeaters",
+      "An automatic computer logging technique for hands-off logging when communicating while operating a vehicle",
+      "A digital technique for transmitting on two repeater inputs simultaneously for automatic error correction"
+    ]
+  },
+  {
+    "id": "T8D08",
+    "correct": 3,
+    "question": "Which of the following is included in packet radio transmissions?",
+    "answers": [
+      "A check sum that permits error detection",
+      "A header that contains the call sign of the station to which the information is being sent",
+      "Automatic repeat request in case of error",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T8D09",
+    "correct": 3,
+    "question": "What is CW?",
+    "answers": [
+      "A type of electromagnetic propagation",
+      "A digital mode used primarily on 2 meter FM",
+      "A technique for coil winding",
+      "Another name for a Morse code transmission"
+    ]
+  },
+  {
+    "id": "T8D10",
+    "correct": 3,
+    "question": "Which of the following operating activities is supported by digital mode software in the WSJT-X software suite?",
+    "answers": [
+      "Earth-Moon-Earth",
+      "Weak signal propagation beacons",
+      "Meteor scatter",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T8D11",
+    "correct": 2,
+    "question": "What is an ARQ transmission system?",
+    "answers": [
+      "A special transmission format limited to video signals",
+      "A system used to encrypt command signals to an amateur radio satellite",
+      "An error correction method in which the receiving station detects errors and sends a request for retransmission",
+      "A method of compressing data using autonomous reiterative Q codes prior to final encoding"
+    ]
+  },
+  {
+    "id": "T8D12",
+    "correct": 0,
+    "question": "Which of the following best describes an amateur radio mesh network?",
+    "answers": [
+      "An amateur-radio based data network using commercial Wi-Fi equipment with modified firmware",
+      "A wide-bandwidth digital voice mode employing DMR protocols",
+      "A satellite communications network using modified commercial satellite TV hardware",
+      "An internet linking protocol used to network repeaters"
+    ]
+  },
+  {
+    "id": "T8D13",
+    "correct": 1,
+    "question": "What is FT8?",
+    "answers": [
+      "A wideband FM voice mode",
+      "A digital mode capable of low signal-to-noise operation",
+      "An eight channel multiplex mode for FM repeaters",
+      "A digital slow-scan TV mode with forward error correction and automatic color compensation"
+    ]
+  }
+]

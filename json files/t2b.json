@@ -1,0 +1,145 @@
+[
+  {
+    "id": "T2B01",
+    "correct": 2,
+    "question": "How is a VHF/UHF transceiver’s “reverse” function used?",
+    "answers": [
+      "To reduce power output",
+      "To increase power output",
+      "To listen on a repeater’s input frequency",
+      "To listen on a repeater’s output frequency"
+    ]
+  },
+  {
+    "id": "T2B02",
+    "correct": 3,
+    "question": "What term describes the use of a sub-audible tone transmitted along with normal voice audio to open the squelch of a receiver?",
+    "answers": [
+      "Carrier squelch",
+      "Tone burst",
+      "DTMF",
+      "CTCSS"
+    ]
+  },
+  {
+    "id": "T2B03",
+    "correct": 0,
+    "question": "Which of the following describes a linked repeater network?",
+    "answers": [
+      "A network of repeaters in which signals received by one repeater are transmitted by all the repeaters in the network",
+      "A single repeater with more than one receiver",
+      "Multiple repeaters with the same control operator",
+      "A system of repeaters linked by APRS"
+    ]
+  },
+  {
+    "id": "T2B04",
+    "correct": 3,
+    "question": "Which of the following could be the reason you are unable to access a repeater whose output you can hear?",
+    "answers": [
+      "Improper transceiver offset",
+      "You are using the wrong CTCSS tone",
+      "You are using the wrong DCS code",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T2B05",
+    "correct": 2,
+    "question": "What would cause your FM transmission audio to be distorted on voice peaks?",
+    "answers": [
+      "Your repeater offset is inverted",
+      "You need to talk louder",
+      "You are talking too loudly",
+      "Your transmit power is too high"
+    ]
+  },
+  {
+    "id": "T2B06",
+    "correct": 0,
+    "question": "What type of signaling uses pairs of audio tones?",
+    "answers": [
+      "DTMF",
+      "CTCSS",
+      "GPRS",
+      "D-STAR"
+    ]
+  },
+  {
+    "id": "T2B07",
+    "correct": 2,
+    "question": "How can you join a digital repeater’s “talkgroup”?",
+    "answers": [
+      "Register your radio with the local FCC office",
+      "Join the repeater owner’s club",
+      "Program your radio with the group’s ID or code",
+      "Sign your call after the courtesy tone"
+    ]
+  },
+  {
+    "id": "T2B08",
+    "correct": 0,
+    "question": "Which of the following applies when two stations transmitting on the same frequency interfere with each other?",
+    "answers": [
+      "The stations should negotiate continued use of the frequency",
+      "Both stations should choose another frequency to avoid conflict",
+      "Interference is inevitable, so no action is required",
+      "Use subaudible tones so both stations can share the frequency"
+    ]
+  },
+  {
+    "id": "T2B09",
+    "correct": 0,
+    "question": "Why are simplex channels designated in the VHF/UHF band plans?",
+    "answers": [
+      "So stations within range of each other can communicate without tying up a repeater",
+      "For contest operation",
+      "For working DX only",
+      "So stations with simple transmitters can access the repeater without automated offset"
+    ]
+  },
+  {
+    "id": "T2B10",
+    "correct": 0,
+    "question": "Which Q signal indicates that you are receiving interference from other stations?",
+    "answers": [
+      "QRM",
+      "QRN",
+      "QTH",
+      "QSB"
+    ]
+  },
+  {
+    "id": "T2B11",
+    "correct": 1,
+    "question": "Which Q signal indicates that you are changing frequency?",
+    "answers": [
+      "QRU",
+      "QSY",
+      "QSL",
+      "QRZ"
+    ]
+  },
+  {
+    "id": "T2B12",
+    "correct": 0,
+    "question": "What is the purpose of the color code used on DMR repeater systems?",
+    "answers": [
+      "Must match the repeater color code for access",
+      "Defines the frequency pair to use",
+      "Identifies the codec used",
+      "Defines the minimum signal level required for access"
+    ]
+  },
+  {
+    "id": "T2B13",
+    "correct": 1,
+    "question": "What is the purpose of a squelch function?",
+    "answers": [
+      "Reduce a CW transmitter's key clicks",
+      "Mute the receiver audio when a signal is not present",
+      "Eliminate parasitic oscillations in an RF amplifier",
+      "Reduce interference from impulse noise"
+    ]
+  }
+]

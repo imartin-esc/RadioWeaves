@@ -1,0 +1,134 @@
+[
+  {
+    "id": "T4A01",
+    "correct": 3,
+    "question": "Which of the following is an appropriate power supply rating for a typical 50 watt output mobile FM transceiver?",
+    "answers": [
+      "24.0 volts at 4 amperes",
+      "13.8 volts at 4 amperes",
+      "24.0 volts at 12 amperes",
+      "13.8 volts at 12 amperes"
+    ]
+  },
+  {
+    "id": "T4A02",
+    "correct": 0,
+    "question": "Which of the following should be considered when selecting an accessory SWR meter?",
+    "answers": [
+      "The frequency and power level at which the measurements will be made",
+      "The distance that the meter will be located from the antenna",
+      "The types of modulation being used at the station",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T4A03",
+    "correct": 0,
+    "question": "Why are short, heavy-gauge wires used for a transceiver’s DC power connection?",
+    "answers": [
+      "To minimize voltage drop when transmitting",
+      "To provide a good counterpoise for the antenna",
+      "To avoid RF interference",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T4A04",
+    "correct": 1,
+    "question": "How are the transceiver audio input and output connected in a station configured to operate using FT8?",
+    "answers": [
+      "To a computer running a terminal program and connected to a terminal node controller unit",
+      "To the audio input and output of a computer running WSJT-X software",
+      "To an FT8 conversion unit, a keyboard, and a computer monitor",
+      "To a computer connected to the FT8converter.com website"
+    ]
+  },
+  {
+    "id": "T4A05",
+    "correct": 0,
+    "question": "Where should an RF power meter be installed?",
+    "answers": [
+      "In the feed line, between the transmitter and antenna",
+      "At the power supply output",
+      "In parallel with the push-to-talk line and the antenna",
+      "In the power supply cable, as close as possible to the radio"
+    ]
+  },
+  {
+    "id": "T4A06",
+    "correct": 2,
+    "question": "What signals are used in a computer-radio interface for digital mode operation?",
+    "answers": [
+      "Receive and transmit mode, status, and location",
+      "Antenna and RF power",
+      "Receive audio, transmit audio, and transmitter keying",
+      "NMEA GPS location and DC power"
+    ]
+  },
+  {
+    "id": "T4A07",
+    "correct": 2,
+    "question": "Which of the following connections is made between a computer and a transceiver to use computer software when operating digital modes?",
+    "answers": [
+      "Computer “line out” to transceiver push-to-talk",
+      "Computer “line in” to transceiver push-to-talk",
+      "Computer “line in” to transceiver speaker connector",
+      "Computer “line out” to transceiver speaker connector"
+    ]
+  },
+  {
+    "id": "T4A08",
+    "correct": 3,
+    "question": "Which of the following conductors is preferred for bonding at RF?",
+    "answers": [
+      "Copper braid removed from coaxial cable",
+      "Steel wire",
+      "Twisted-pair cable",
+      "Flat copper strap"
+    ]
+  },
+  {
+    "id": "T4A09",
+    "correct": 1,
+    "question": "How can you determine the length of time that equipment can be powered from a battery?",
+    "answers": [
+      "Divide the watt-hour rating of the battery by the peak power consumption of the equipment",
+      "Divide the battery ampere-hour rating by the average current draw of the equipment",
+      "Multiply the watts per hour consumed by the equipment by the battery power rating",
+      "Multiply the square of the current rating of the battery by the input resistance of the equipment"
+    ]
+  },
+  {
+    "id": "T4A10",
+    "correct": 0,
+    "question": "What function is performed with a transceiver and a digital mode hot spot?",
+    "answers": [
+      "Communication using digital voice or data systems via the internet",
+      "FT8 digital communications via AFSK",
+      "RTTY encoding and decoding without a computer",
+      "High-speed digital communications for meteor scatter"
+    ]
+  },
+  {
+    "id": "T4A11",
+    "correct": 0,
+    "question": "Where should the negative power return of a mobile transceiver be connected in a vehicle?",
+    "answers": [
+      "At the 12 volt battery chassis ground",
+      "At the antenna mount",
+      "To any metal part of the vehicle",
+      "Through the transceiver’s mounting bracket"
+    ]
+  },
+  {
+    "id": "T4A12",
+    "correct": 2,
+    "question": "What is an electronic keyer?",
+    "answers": [
+      "A device for switching antennas from transmit to receive",
+      "A device for voice activated switching from receive to transmit",
+      "A device that assists in manual sending of Morse code",
+      "An interlock to prevent unauthorized use of a radio"
+    ]
+  }
+]

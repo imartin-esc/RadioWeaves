@@ -1,0 +1,134 @@
+[
+  {
+    "id": "T6B01",
+    "correct": 0,
+    "question": "Which is true about forward voltage drop in a diode?",
+    "answers": [
+      "It is lower in some diode types than in others",
+      "It is proportional to peak inverse voltage",
+      "It indicates that the diode is defective",
+      "It has no impact on the voltage delivered to the load"
+    ]
+  },
+  {
+    "id": "T6B02",
+    "correct": 2,
+    "question": "What electronic component allows current to flow in only one direction?",
+    "answers": [
+      "Resistor",
+      "Fuse",
+      "Diode",
+      "Driven element"
+    ]
+  },
+  {
+    "id": "T6B03",
+    "correct": 2,
+    "question": "Which of these components can be used as an electronic switch?",
+    "answers": [
+      "Varistor",
+      "Potentiometer",
+      "Transistor",
+      "Thermistor"
+    ]
+  },
+  {
+    "id": "T6B04",
+    "correct": 1,
+    "question": "Which of the following components can consist of three regions of semiconductor material?",
+    "answers": [
+      "Alternator",
+      "Transistor",
+      "Triode",
+      "Pentagrid converter"
+    ]
+  },
+  {
+    "id": "T6B05",
+    "correct": 1,
+    "question": "What type of transistor has a gate, drain, and source?",
+    "answers": [
+      "Varistor",
+      "Field-effect",
+      "Tesla-effect",
+      "Bipolar junction"
+    ]
+  },
+  {
+    "id": "T6B06",
+    "correct": 1,
+    "question": "How is the cathode lead of a semiconductor diode often marked on the package?",
+    "answers": [
+      "With the word \"cathode\"",
+      "With a stripe",
+      "With the letter C",
+      "With the letter K"
+    ]
+  },
+  {
+    "id": "T6B07",
+    "correct": 0,
+    "question": "What causes a light-emitting diode (LED) to emit light?",
+    "answers": [
+      "Forward current",
+      "Reverse current",
+      "Capacitively-coupled RF signal",
+      "Inductively-coupled RF signal"
+    ]
+  },
+  {
+    "id": "T6B08",
+    "correct": 3,
+    "question": "What does the abbreviation FET stand for?",
+    "answers": [
+      "Frequency Emission Transmitter",
+      "Fast Electron Transistor",
+      "Free Electron Transmitter",
+      "Field Effect Transistor"
+    ]
+  },
+  {
+    "id": "T6B09",
+    "correct": 2,
+    "question": "What are the names for the electrodes of a diode?",
+    "answers": [
+      "Plus and minus",
+      "Source and drain",
+      "Anode and cathode",
+      "Gate and base"
+    ]
+  },
+  {
+    "id": "T6B10",
+    "correct": 1,
+    "question": "Which of the following can provide power gain?",
+    "answers": [
+      "Transformer",
+      "Transistor",
+      "Reactor",
+      "Resistor"
+    ]
+  },
+  {
+    "id": "T6B11",
+    "correct": 0,
+    "question": "What is the term that describes a device's ability to amplify a signal?",
+    "answers": [
+      "Gain",
+      "Forward resistance",
+      "Forward voltage drop",
+      "On resistance"
+    ]
+  },
+  {
+    "id": "T6B12",
+    "correct": 1,
+    "question": "What are the names of the electrodes of a bipolar junction transistor?",
+    "answers": [
+      "Signal, bias, power",
+      "Emitter, base, collector",
+      "Input, output, supply",
+      "Pole one, pole two, output"
+    ]
+  }
+]

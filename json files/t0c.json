@@ -1,0 +1,145 @@
+[
+  {
+    "id": "T0C01",
+    "correct": 3,
+    "question": "What type of radiation are radio signals?",
+    "answers": [
+      "Gamma radiation",
+      "Ionizing radiation",
+      "Alpha radiation",
+      "Non-ionizing radiation"
+    ]
+  },
+  {
+    "id": "T0C02",
+    "correct": 1,
+    "question": "At which of the following frequencies does maximum permissible exposure have the lowest value?",
+    "answers": [
+      "3.5 MHz",
+      "50 MHz",
+      "440 MHz",
+      "1296 MHz"
+    ]
+  },
+  {
+    "id": "T0C03",
+    "correct": 2,
+    "question": "How does the allowable power density for RF safety change if duty cycle changes from 100 percent to 50 percent?",
+    "answers": [
+      "It increases by a factor of 3",
+      "It decreases by 50 percent",
+      "It increases by a factor of 2",
+      "There is no adjustment allowed for lower duty cycle"
+    ]
+  },
+  {
+    "id": "T0C04",
+    "correct": 3,
+    "question": "What factors affect the RF exposure of people near an amateur station antenna?",
+    "answers": [
+      "Frequency and power level of the RF field",
+      "Distance from the antenna to a person",
+      "Radiation pattern of the antenna",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T0C05",
+    "correct": 3,
+    "question": "Why do exposure limits vary with frequency?",
+    "answers": [
+      "Lower frequency RF fields have more energy than higher frequency fields",
+      "Lower frequency RF fields do not penetrate the human body",
+      "Higher frequency RF fields are transient in nature",
+      "The human body absorbs more RF energy at some frequencies than at others"
+    ]
+  },
+  {
+    "id": "T0C06",
+    "correct": 3,
+    "question": "Which of the following is an acceptable method to determine whether your station complies with FCC RF exposure regulations?",
+    "answers": [
+      "By calculation based on FCC OET Bulletin 65",
+      "By calculation based on computer modeling",
+      "By measurement of field strength using calibrated equipment",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T0C07",
+    "correct": 1,
+    "question": "What hazard is created by touching an antenna during a transmission?",
+    "answers": [
+      "Electrocution",
+      "RF burn to skin",
+      "Radiation poisoning",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T0C08",
+    "correct": 0,
+    "question": "Which of the following actions can reduce exposure to RF radiation?",
+    "answers": [
+      "Relocate antennas",
+      "Relocate the transmitter",
+      "Increase the duty cycle",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T0C09",
+    "correct": 1,
+    "question": "How can you make sure your station stays in compliance with RF safety regulations?",
+    "answers": [
+      "By informing the FCC of any changes made in your station",
+      "By re-evaluating the station whenever an item in the transmitter or antenna system is changed",
+      "By making sure your antennas have low SWR",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T0C10",
+    "correct": 0,
+    "question": "Why is duty cycle one of the factors used to determine safe RF radiation exposure levels?",
+    "answers": [
+      "It affects the average exposure to radiation",
+      "It affects the peak exposure to radiation",
+      "It takes into account the antenna feed line loss",
+      "It takes into account the thermal effects of the final amplifier"
+    ]
+  },
+  {
+    "id": "T0C11",
+    "correct": 2,
+    "question": "What is the definition of duty cycle during the averaging time for RF exposure?",
+    "answers": [
+      "The difference between the lowest power output and the highest power output of a transmitter",
+      "The difference between the PEP and average power output of a transmitter",
+      "The percentage of time that a transmitter is transmitting",
+      "The percentage of time that a transmitter is not transmitting"
+    ]
+  },
+  {
+    "id": "T0C12",
+    "correct": 0,
+    "question": "How does RF radiation differ from ionizing radiation (radioactivity)?",
+    "answers": [
+      "RF radiation does not have sufficient energy to cause chemical changes in cells and damage DNA",
+      "RF radiation can only be detected with an RF dosimeter",
+      "RF radiation is limited in range to a few feet",
+      "RF radiation is perfectly safe"
+    ]
+  },
+  {
+    "id": "T0C13",
+    "correct": 1,
+    "question": "Who is responsible for ensuring that no person is exposed to RF energy above the FCC exposure limits?",
+    "answers": [
+      "The FCC",
+      "The station licensee",
+      "Anyone who is near an antenna",
+      "The local zoning board"
+    ]
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "T3A01",
+    "correct": 2,
+    "question": "Why do VHF signal strengths sometimes vary greatly when the antenna is moved only a few feet?",
+    "answers": [
+      "The signal path encounters different concentrations of water vapor",
+      "VHF ionospheric propagation is very sensitive to path length",
+      "Multipath propagation cancels or reinforces signals",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T3A02",
+    "correct": 1,
+    "question": "What is the effect of vegetation on UHF and microwave signals?",
+    "answers": [
+      "Knife-edge diffraction",
+      "Absorption",
+      "Amplification",
+      "Polarization rotation"
+    ]
+  },
+  {
+    "id": "T3A03",
+    "correct": 2,
+    "question": "What antenna polarization is normally used for long-distance CW and SSB contacts on the VHF and UHF bands?",
+    "answers": [
+      "Right-hand circular",
+      "Left-hand circular",
+      "Horizontal",
+      "Vertical"
+    ]
+  },
+  {
+    "id": "T3A04",
+    "correct": 1,
+    "question": "What happens when antennas at opposite ends of a VHF or UHF line of sight radio link are not using the same polarization?",
+    "answers": [
+      "The modulation sidebands might become inverted",
+      "Received signal strength is reduced",
+      "Signals have an echo effect",
+      "Nothing significant will happen"
+    ]
+  },
+  {
+    "id": "T3A05",
+    "correct": 1,
+    "question": "When using a directional antenna, how might your station be able to communicate with a distant repeater if buildings or obstructions are blocking the direct line of sight path?",
+    "answers": [
+      "Change from vertical to horizontal polarization",
+      "Try to find a path that reflects signals to the repeater",
+      "Try the long path",
+      "Increase the antenna SWR"
+    ]
+  },
+  {
+    "id": "T3A06",
+    "correct": 1,
+    "question": "What is the meaning of the term “picket fencing”?",
+    "answers": [
+      "Alternating transmissions during a net operation",
+      "Rapid flutter on mobile signals due to multipath propagation",
+      "A type of ground system used with vertical antennas",
+      "Local vs long-distance communications"
+    ]
+  },
+  {
+    "id": "T3A07",
+    "correct": 2,
+    "question": "What weather condition might decrease range at microwave frequencies?",
+    "answers": [
+      "High winds",
+      "Low barometric pressure",
+      "Precipitation",
+      "Colder temperatures"
+    ]
+  },
+  {
+    "id": "T3A08",
+    "correct": 3,
+    "question": "What is a likely cause of irregular fading of signals propagated by the ionosphere?",
+    "answers": [
+      "Frequency shift due to Faraday rotation",
+      "Interference from thunderstorms",
+      "Intermodulation distortion",
+      "Random combining of signals arriving via different paths"
+    ]
+  },
+  {
+    "id": "T3A09",
+    "correct": 1,
+    "question": "Which of the following results from the fact that signals propagated by the ionosphere are elliptically polarized?",
+    "answers": [
+      "Digital modes are unusable",
+      "Either vertically or horizontally polarized antennas may be used for transmission or reception",
+      "FM voice is unusable",
+      "Both the transmitting and receiving antennas must be of the same polarization"
+    ]
+  },
+  {
+    "id": "T3A10",
+    "correct": 3,
+    "question": "What effect does multi-path propagation have on data transmissions?",
+    "answers": [
+      "Transmission rates must be increased by a factor equal to the number of separate paths observed",
+      "Transmission rates must be decreased by a factor equal to the number of separate paths observed",
+      "No significant changes will occur if the signals are transmitted using FM",
+      "Error rates are likely to increase"
+    ]
+  },
+  {
+    "id": "T3A11",
+    "correct": 2,
+    "question": "Which region of the atmosphere can refract or bend HF and VHF radio waves?",
+    "answers": [
+      "The stratosphere",
+      "The troposphere",
+      "The ionosphere",
+      "The mesosphere"
+    ]
+  },
+  {
+    "id": "T3A12",
+    "correct": 1,
+    "question": "What is the effect of fog and rain on signals in the 10 meter and 6 meter bands?",
+    "answers": [
+      "Absorption",
+      "There is little effect",
+      "Deflection",
+      "Range increase"
+    ]
+  }
+]

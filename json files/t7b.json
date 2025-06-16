@@ -1,0 +1,123 @@
+[
+  {
+    "id": "T7B01",
+    "correct": 3,
+    "question": "What can you do if you are told your FM handheld or mobile transceiver is over-deviating?",
+    "answers": [
+      "Talk louder into the microphone",
+      "Let the transceiver cool off",
+      "Change to a higher power level",
+      "Talk farther away from the microphone"
+    ]
+  },
+  {
+    "id": "T7B02",
+    "correct": 0,
+    "question": "What would cause a broadcast AM or FM radio to receive an amateur radio transmission unintentionally?",
+    "answers": [
+      "The receiver is unable to reject strong signals outside the AM or FM band",
+      "The microphone gain of the transmitter is turned up too high",
+      "The audio amplifier of the transmitter is overloaded",
+      "The deviation of an FM transmitter is set too low"
+    ]
+  },
+  {
+    "id": "T7B03",
+    "correct": 3,
+    "question": "Which of the following can cause radio frequency interference?",
+    "answers": [
+      "Fundamental overload",
+      "Harmonics",
+      "Spurious emissions",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T7B04",
+    "correct": 3,
+    "question": "Which of the following could you use to cure distorted audio caused by RF current on the shield of a microphone cable?",
+    "answers": [
+      "Band-pass filter",
+      "Low-pass filter",
+      "Preamplifier",
+      "Ferrite choke"
+    ]
+  },
+  {
+    "id": "T7B05",
+    "correct": 0,
+    "question": "How can fundamental overload of a non-amateur radio or TV receiver by an amateur signal be reduced or eliminated?",
+    "answers": [
+      "Block the amateur signal with a filter at the antenna input of the affected receiver",
+      "Block the interfering signal with a filter on the amateur transmitter",
+      "Switch the transmitter from FM to SSB",
+      "Switch the transmitter to a narrow-band mode"
+    ]
+  },
+  {
+    "id": "T7B06",
+    "correct": 0,
+    "question": "Which of the following actions should you take if a neighbor tells you that your station’s transmissions are interfering with their radio or TV reception?",
+    "answers": [
+      "Make sure that your station is functioning properly and that it does not cause interference to your own radio or television when it is tuned to the same channel",
+      "Immediately turn off your transmitter and contact the nearest FCC office for assistance",
+      "Install a harmonic doubler on the output of your transmitter and tune it until the interference is eliminated",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T7B07",
+    "correct": 3,
+    "question": "Which of the following can reduce overload of a VHF transceiver by a nearby commercial FM station?",
+    "answers": [
+      "Installing an RF preamplifier",
+      "Using double-shielded coaxial cable",
+      "Installing bypass capacitors on the microphone cable",
+      "Installing a band-reject filter"
+    ]
+  },
+  {
+    "id": "T7B08",
+    "correct": 3,
+    "question": "What should you do if something in a neighbor’s home is causing harmful interference to your amateur station?",
+    "answers": [
+      "Work with your neighbor to identify the offending device",
+      "Politely inform your neighbor that FCC rules prohibit the use of devices that cause interference",
+      "Make sure your station meets the standards of good amateur practice",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T7B09",
+    "correct": 3,
+    "question": "What should be the first step to resolve non-fiber optic cable TV interference caused by your amateur radio transmission?",
+    "answers": [
+      "Add a low-pass filter to the TV antenna input",
+      "Add a high-pass filter to the TV antenna input",
+      "Add a preamplifier to the TV antenna input",
+      "Be sure all TV feed line coaxial connectors are installed properly"
+    ]
+  },
+  {
+    "id": "T7B10",
+    "correct": 3,
+    "question": "What might be a problem if you receive a report that your audio signal through an FM repeater is distorted or unintelligible?",
+    "answers": [
+      "Your transmitter is slightly off frequency",
+      "Your batteries are running low",
+      "You are in a bad location",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T7B11",
+    "correct": 2,
+    "question": "What is a symptom of RF feedback in a transmitter or transceiver?",
+    "answers": [
+      "Excessive SWR at the antenna connection",
+      "The transmitter will not stay on the desired frequency",
+      "Reports of garbled, distorted, or unintelligible voice transmissions",
+      "Frequent blowing of power supply fuses"
+    ]
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "id": "T1C01",
+    "correct": 3,
+    "question": "For which license classes are new licenses currently available from the FCC?",
+    "answers": [
+      "Novice, Technician, General, Amateur Extra",
+      "Technician, Technician Plus, General, Amateur Extra",
+      "Novice, Technician Plus, General, Advanced",
+      "Technician, General, Amateur Extra"
+    ]
+  },
+  {
+    "id": "T1C02",
+    "correct": 3,
+    "question": "Who may select a desired call sign under the vanity call sign rules?",
+    "answers": [
+      "Only a licensed amateur with a General or Amateur Extra Class license",
+      "Only a licensed amateur with an Amateur Extra Class license",
+      "Only a licensed amateur who has been licensed continuously for more than 10 years",
+      "Any licensed amateur"
+    ]
+  },
+  {
+    "id": "T1C03",
+    "correct": 0,
+    "question": "What types of international communications are an FCC-licensed amateur radio station permitted to make?",
+    "answers": [
+      "Communications incidental to the purposes of the Amateur Radio Service and remarks of a personal character",
+      "Communications incidental to conducting business or remarks of a personal nature",
+      "Only communications incidental to contest exchanges; all other communications are prohibited",
+      "Any communications that would be permitted by an international broadcast station"
+    ]
+  },
+  {
+    "id": "T1C04",
+    "correct": 1,
+    "question": "What may happen if the FCC is unable to reach you by email?",
+    "answers": [
+      "Fine and suspension of operator license",
+      "Revocation of the station license or suspension of the operator license",
+      "Revocation of access to the license record in the FCC system",
+      "Nothing; there is no such requirement"
+    ]
+  },
+  {
+    "id": "T1C05",
+    "correct": 0,
+    "question": "Which of the following is a valid Technician class call sign format?",
+    "answers": [
+      "KF1XXX",
+      "KA1X",
+      "W1XX",
+      "All these choices are correct"
+    ]
+  },
+  {
+    "id": "T1C06",
+    "correct": 3,
+    "question": "From which of the following locations may an FCC-licensed amateur station transmit?",
+    "answers": [
+      "From within any country that belongs to the International Telecommunication Union",
+      "From within any country that is a member of the United Nations",
+      "From anywhere within International Telecommunication Union (ITU) Regions 2 and 3",
+      "From any vessel or craft located in international waters and documented or registered in the United States"
+    ]
+  },
+  {
+    "id": "T1C07",
+    "correct": 1,
+    "question": "Which of the following can result in revocation of the station license or suspension of the operator license?",
+    "answers": [
+      "Failure to inform the FCC of any changes in the amateur station following performance of an RF safety environmental evaluation",
+      "Failure to provide and maintain a correct email address with the FCC",
+      "Failure to obtain FCC type acceptance prior to using a home-built transmitter",
+      "Failure to have a copy of your license available at your station"
+    ]
+  },
+  {
+    "id": "T1C08",
+    "correct": 2,
+    "question": "What is the normal term for an FCC-issued amateur radio license?",
+    "answers": [
+      "Five years",
+      "Life",
+      "Ten years",
+      "Eight years"
+    ]
+  },
+  {
+    "id": "T1C09",
+    "correct": 0,
+    "question": "What is the grace period for renewal if an amateur license expires?",
+    "answers": [
+      "Two years",
+      "Three years",
+      "Five years",
+      "Ten years"
+    ]
+  },
+  {
+    "id": "T1C10",
+    "correct": 2,
+    "question": "How soon after passing the examination for your first amateur radio license may you transmit on the amateur radio bands?",
+    "answers": [
+      "Immediately on receiving your Certificate of Successful Completion of Examination (CSCE)",
+      "As soon as your operator/station license grant appears on the ARRL website",
+      "As soon as your operator/station license grant appears in the FCC’s license database",
+      "As soon as you receive your license in the mail from the FCC"
+    ]
+  },
+  {
+    "id": "T1C11",
+    "correct": 3,
+    "question": "If your license has expired and is still within the allowable grace period, may you continue to transmit on the amateur radio bands?",
+    "answers": [
+      "Yes, for up to two years",
+      "Yes, as soon as you apply for renewal",
+      "Yes, for up to one year",
+      "No, you must wait until the license has been renewed"
+    ]
+  }
+]

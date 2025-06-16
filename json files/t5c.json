@@ -1,0 +1,145 @@
+[
+  {
+    "id": "T5C01",
+    "correct": 3,
+    "question": "What describes the ability to store energy in an electric field?",
+    "answers": [
+      "Inductance",
+      "Resistance",
+      "Tolerance",
+      "Capacitance"
+    ]
+  },
+  {
+    "id": "T5C02",
+    "correct": 0,
+    "question": "What is the unit of capacitance?",
+    "answers": [
+      "The farad",
+      "The ohm",
+      "The volt",
+      "The henry"
+    ]
+  },
+  {
+    "id": "T5C03",
+    "correct": 3,
+    "question": "What describes the ability to store energy in a magnetic field?",
+    "answers": [
+      "Admittance",
+      "Capacitance",
+      "Resistance",
+      "Inductance"
+    ]
+  },
+  {
+    "id": "T5C04",
+    "correct": 2,
+    "question": "What is the unit of inductance?",
+    "answers": [
+      "The coulomb",
+      "The farad",
+      "The henry",
+      "The ohm"
+    ]
+  },
+  {
+    "id": "T5C05",
+    "correct": 3,
+    "question": "What is the unit of impedance?",
+    "answers": [
+      "The volt",
+      "The ampere",
+      "The coulomb",
+      "The ohm"
+    ]
+  },
+  {
+    "id": "T5C06",
+    "correct": 0,
+    "question": "What does the abbreviation “RF” mean?",
+    "answers": [
+      "Radio frequency signals of all types",
+      "The resonant frequency of a tuned circuit",
+      "The real frequency transmitted as opposed to the apparent frequency",
+      "Reflective force in antenna transmission lines"
+    ]
+  },
+  {
+    "id": "T5C07",
+    "correct": 3,
+    "question": "What is the abbreviation for megahertz?",
+    "answers": [
+      "MH",
+      "mh",
+      "Mhz",
+      "MHz"
+    ]
+  },
+  {
+    "id": "T5C08",
+    "correct": 0,
+    "question": "What is the formula used to calculate electrical power (P) in a DC circuit?",
+    "answers": [
+      "P = I × E",
+      "P = E / I",
+      "P = E – I",
+      "P = I + E"
+    ]
+  },
+  {
+    "id": "T5C09",
+    "correct": 0,
+    "question": "How much power is delivered by a voltage of 13.8 volts DC and a current of 10 amperes?",
+    "answers": [
+      "138 watts",
+      "0.7 watts",
+      "23.8 watts",
+      "3.8 watts"
+    ]
+  },
+  {
+    "id": "T5C10",
+    "correct": 1,
+    "question": "How much power is delivered by a voltage of 12 volts DC and a current of 2.5 amperes?",
+    "answers": [
+      "4.8 watts",
+      "30 watts",
+      "14.5 watts",
+      "0.208 watts"
+    ]
+  },
+  {
+    "id": "T5C11",
+    "correct": 1,
+    "question": "How much current is required to deliver 120 watts at a voltage of 12 volts DC?",
+    "answers": [
+      "0.1 amperes",
+      "10 amperes",
+      "12 amperes",
+      "132 amperes"
+    ]
+  },
+  {
+    "id": "T5C12",
+    "correct": 0,
+    "question": "What is impedance?",
+    "answers": [
+      "The opposition to AC current flow",
+      "The inverse of resistance",
+      "The Q or Quality Factor of a component",
+      "The power handling capability of a component"
+    ]
+  },
+  {
+    "id": "T5C13",
+    "correct": 3,
+    "question": "What is the abbreviation for kilohertz?",
+    "answers": [
+      "KHZ",
+      "khz",
+      "khZ",
+      "kHz"
+    ]
+  }
+]
