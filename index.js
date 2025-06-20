@@ -37,3 +37,6 @@ const deleteTodo = async (event, id) => {
   await db.todos.delete(id);
   await getTodos();
 };
+
+let domElement = await getFlashCardDomElement("T0A01");
+document.body.appendChild(domElement);

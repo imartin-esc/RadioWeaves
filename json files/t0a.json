@@ -2,7 +2,7 @@
   {
     "id": "T0A01",
     "correct": 1,
-    "question": "Which of the following is a safety hazard of a 12-volt storage battery?",
+    "question": "&Which& of the following is a &safety hazard& of a 12-volt storage battery?",
     "answers": [
       "Touching both terminals with the hands can cause electrical shock",
       "Shorting the terminals can cause burns, fire, or an explosion",
